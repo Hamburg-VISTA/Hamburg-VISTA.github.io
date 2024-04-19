@@ -1,3 +1,3 @@
 # Hamburg-VISTA.github.io
 
-Under construction...
+Under construction
