@@ -1,0 +1,393 @@
+# _data/publications2023.yml
+
+# -------------------------------- 2023 -----------------------------------------  
+  
+  
+- title: "Les Houches guide to reusable ML models in LHC analyses"
+  authors: J. Y. Araz, A. Buckley, G. Kasieczka, J. Kieseler, S. Kraml, A. Kvellestad, A. Lessa, T. Procter, A. Raklev, H. Reyes-Gonzalez, K. Rolbiecki, S. Sekmen, G. Unel
+  date_published: 2023-12
+  date_publishedprintout: December, 2023
+  e-print: 2312.14575
+
+- title: "AdamMCMC: Combining Metropolis Adjusted Langevin with Momentum-based Optimization"
+  authors: S. Bieringer, G. Kasieczka, M. F. Steffen, M. Trabs
+  date_published: 2023-12
+  date_publishedprintout: December, 2023
+  e-print: 2312.14027
+
+- title: "Residual ANODE"
+  authors: R. Das, G. Kasieczka, D. Shih
+  date_published: 2023-12
+  date_publishedprintout: December, 2023
+  e-print: 2312.11629
+
+- title: "Flow Matching Beyond Kinematics: Generating Jets with Particle-ID and Trajectory Displacement Information"
+  authors: J. Birk, E. Buhmann, C. Ewen, G. Kasieczka, D. Shih
+  date_published: 2023-11
+  date_publishedprintout: November, 2023
+  e-print: 2312.00123
+
+- title: "Machine learning techniques for model-independent searches in dijet final states"
+  authors: P. Harris, W. P. Mccormack, S. E. Park, T. Quadfasel, M. Sommerhalder, L. J. Moureaux, G. Kasieczka, O. Amram, P. Maksimovic, B. Maier, M. Pierini, K. A. Wozniak, T. K. Aarrestad, J. Ngadiuba, I. Zoi, S. K. Bright-Thonney, D. Shih, A. Bal
+  date_published: 2023-11
+  date_publishedprintout: November, 2023
+  journal: CERN document server (CDS)
+  journallink: https://cds.cern.ch/record/2881089?ln=en
+
+- title: "Full Phase Space Resonant Anomaly Detection"
+  authors: E. Buhmann, C. Ewen, G. Kasieczka, V. Mikuni, B. Nachman, D. Shih
+  date_published: 2023-10
+  date_publishedprintout: October, 2023
+  e-print: 2310.06897
+
+- title: "Statistical guarantees for stochastic Metropolis-Hastings"
+  authors: S. Bieringer, G. Kasieczka, M. F. Steffen, M. Trabs
+  date_published: 2023-10
+  date_publishedprintout: October, 2023
+  e-print: 2310.09335
+
+- title: "EPiC-ly Fast Particle Cloud Generation with Flow-Matching and Diffusion"
+  authors: E. Buhmann, C. Ewen, D. A. Faroughy, T. Golling, G. Kasieczka, M. Leigh, G. Quétant, J. A. Raine, D. Sengupta, D. Shih
+  date_published: 2023-09
+  date_publishedprintout: September, 2023
+  e-print: 2310.00049
+
+- title: "Back To The Roots: Tree-Based Algorithms for Weakly Supervised Anomaly Detection"
+  authors: T. Finke, M. Hein, G. Kasieczka, M. Krämer, A. Mück, P. Prangchaikul, T. Quadfasel, D. Shih, M. Sommerhalder
+  date_published: 2023-09
+  date_publishedprintout: September, 2023
+  e-print: 2309.13111
+
+- title: "Combining Resonant and Tail-based Anomaly Detection"
+  authors: G. Bickendorf, M. Drees, G. Kasieczka, C. Krause, D. Shih
+  date_published: 2023-09
+  date_publishedprintout: September, 2023
+  e-print: 2309.12918
+
+- title: "CaloClouds II: Ultra-Fast Geometry-Independent Highly-Granular Calorimeter Simulation"
+  authors: E. Buhmann, F. Gaede, G. Kasieczka, A. Korol, W. Korcari, K. Krüger, P. McKeown
+  date_published: 2023-09
+  date_publishedprintout: September, 2023
+  e-print: 2309.05704
+
+- title: "The Interplay of Machine Learning-based Resonant Anomaly Detection Methods"
+  authors: T. Golling, G. Kasieczka, C. Krause, R. Mastandrea, B. Nachman, J. A. Raine, D. Sengupta, D. Shih, M. Sommerhalder
+  date_published: 2023-07
+  date_publishedprintout: July, 2023
+  e-print: 2307.11157
+
+- title: "CaloClouds: Fast Geometry-Independent Highly-Granular Calorimeter Simulation"
+  authors: E. Buhmann, S. Diefenbacher, E. Eren, F. Gaede, G. Kasieczka, A. Korol, W. Korcari, K. Krüger, P. McKeown
+  date_published: 2023-05
+  date_publishedprintout: May, 2023
+  journal: "JINST 18 P11025"
+  journallink: "https://iopscience.iop.org/article/10.1088/1748-0221/18/11/P11025"
+  e-print: 2305.04847
+
+- title: "New Angles on Fast Calorimeter Shower Simulation"
+  authors: S. Diefenbacher, E. Eren, F. Gaede, G. Kasieczka, A. Korol, K. Krüger, P. McKeown, L. Rustige
+  date_published: 2023-03
+  date_publishedprintout: March, 2023
+  journal: "Mach. Learn.: Sci. Technol. 4 035044"
+  journallink: https://iopscience.iop.org/article/10.1088/2632-2153/acefa9
+  e-print: 2303.18150
+
+- title: "L2LFlows: Generating High-Fidelity 3D Calorimeter Images"
+  authors: S. Diefenbacher, E. Eren, F. Gaede, G. Kasieczka, C. Krause, I. Shekhzadeh, D. Shih
+  date_published: 2023-02
+  date_publishedprintout: February, 2023
+  journal: "JINST 18 P10017"
+  journallink: https://iopscience.iop.org/article/10.1088/1748-0221/18/10/P10017
+  e-print: 2302.11594
+
+- title: "PeakOTron: A Python Module for Fitting Charge Spectra of Silicon Photomultipliers"
+  authors: J. Rolph, E. Garutti, R. Klanner, T. Quadfasel, J. Schwandt
+  date_published: 2023-01
+  date_publishedprintout: January, 2023
+  journal: "NIM A, 1056, 168544 (2023)"
+  journallink: https://doi.org/10.1016/j.nima.2023.168544
+  e-print: 2301.11833
+
+- title: "EPiC-GAN: Equivariant Point Cloud Generation for Particle Jets"
+  authors: E. Buhmann, G. Kasieczka, J. Thaler
+  date_published: 2023-01
+  date_publishedprintout: January, 2023
+  journal: "SciPostPhys. 15, 130"
+  journallink: https://scipost.org/10.21468/SciPostPhys.15.4.130
+  e-print: 2301.08128
+  
+- title: From Narrativity to Relevance - A Computational Approach Based on Events
+  authors: Gius, E., Hatzel, H., Stiemer, H., Biemann, C.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: IGEL, Monopoli, Italy
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-gius-et-al-igel.pdf
+
+- title: "IDA - Incel Data Archive: a multimodal comparable corpus for exploring extremist dynamics in online interaction"
+  authors: Anastasi, S., Fischer, T., Schneider, F., Biemann, C.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: Proceedings of the 10th International Conference on CMC and Social Media Corpora for the Humanities, University of Mannheim, Germany
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-anastasietal-cmc.pdf
+
+- title: Predicting Terms in IS-A Relations with Pre-trained Transformers
+  authors: Nikishina, I., Chernomorchenko, P., Demidova, A., Panchenko, A., Biemann, C.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: Proceedings of the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics, Bali, Indonesia
+  journallink: http://www.afnlp.org/conferences/ijcnlp2023/proceedings/main-findings/cdrom/pdf/2023.findings-ijcnlp.12.pdf
+
+- title: "RuCAM: Comparative Argumentative Machine for the Russian Language"
+  authors: Maslova, M., Rebrikov, S., Artsishevski, A., Zaczek, S., Biemann C., Nikishina I.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: Proceedings of the 11th International Conference on Analysis of Images, Social Networks and Texts (AIST 2023), Yerevan, Armenia
+  journallink: publishing in process
+
+- title: Text augmentation for semantic frame induction and parsing
+  authors: Anwar, S., Shelmanov, A., Arefyev, N., Panchenko, A., Biemann, C.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: Language Resources & Evaluation
+  journallink: https://link.springer.com/article/10.1007/s10579-023-09679-8
+
+- title: Unsupervised Ultra-Fine Entity Typing with Distributionally Induced Word Senses
+  authors: Sevgili, Ö., Remus, S., Jana, A., Panchenko, A., Biemann, C.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: Proceedings of the 11th International Conference on Analysis of Images, Social Networks and Texts (AIST), pp. 1--15, Yerevan, Armenia
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-sevgilietal-ufet-aist.pdf
+
+- title: Cross-Modal Impact of Recent Word Encountering Experience
+  authors: Liu, J., Gu, J., Feng, C., Shi, W., Biemann, C., & Li, X.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: Scientific Studies of Reading
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-liuetal-jscisturead.pdf
+
+- title: Using Wikidata for Enhancing Compositionality in Pre-trained Language Models
+  authors: Beloucif, M., Bansal, M., Biemann, C.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: Proceedings of Recent Advances in Natural Language Processing, pages 170–178, Varna, Bulgaria
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-beloucifetal-ranlp.pdf
+
+- title: Multi-Modal Learning Application - Support Language Learners with NLP Techniques and Eye-Tracking
+  authors: Geislinger, R., Pourasad, A. E., Gül, D., Djahangir, D., Yimam, S. M., Remus, S., Biemann, C.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: Proceedings of the Linguistic Insights from and for Multimodal Language Processing (LIMO) Workshop co-located with the 19th Conference on Natural Language Processing (KONVENS 2023), pp. 1--6, Ingolstadt, Germany
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-geislingeretal-limo-eyetracking.pdf
+
+- title: Multi-Modal Learning Application - Support Language Learners with NLP Techniques and Eye-Tracking
+  authors: Geislinger, R., Pourasad, A. E., Gül, D., Djahangir, D., Yimam, S. M., Remus, S., Biemann, C.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: Proceedings of the Linguistic Insights from and for Multimodal Language Processing (LIMO) Workshop co-located with the 19th Conference on Natural Language Processing (KONVENS 2023), pp. 1--6, Ingolstadt, Germany
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-geislingeretal-limo-eyetracking.pdf
+
+- title: "From Qualitative to Quantitative Research: Semi-Automatic Annotation Scaling in the Digital Humanities"
+  authors: Petersen-Frey, F., Fischer, T., Schneider, F., Eiser, I., Koch, G., Biemann, C.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: KONVENS 2023 Konferenz zur Verarbeitung natürlicher Sprache/Conference on Natural Language Processing, Ingolstadt, Germany
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-petersenfreyetal-konvens-dwise.pdf
+
+- title: Das Konzept des House of Computing and Data Science als Blaupause zur Digitalisierung der Forschung. Aktuelle Entwicklungen und Perspektiven (an Hochschulen) im Bereich Data Science
+  authors: Biemann, C., Böhmann, T., Gerling, S., Louis, J., Semmann, M.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: Berlin, Germany
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-semmannetal-dsworkshop.pdf
+
+- title: "DBLPLink: An Entity Linker for the DBLP Scholarly Knowledge Graph"
+  authors: Banerjee D., Arefa, Usbeck R., Biemann C.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: 22nd International Semantic Web Conference, Athens, Greece
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-banerjee-iswc2023-dblplinkdemo.pdf
+
+- title: Exploring Amharic Hate Speech Data Collection and Classification Approaches
+  authors: Ayele A.A., Yimam S.M., Belay T.D., Asfaw T. and Biemann C.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: the 14th Conference RECENT ADVANCES IN NATURAL LANGUAGE PROCESSING, Varna, Bulgaria
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-ayele-et-al-hate-ranlp.pdf
+
+- title: Multilingual Racial Hate Speech Detection Using Transfer Learning
+  authors: Ayele A.A., Dinter S.,Yimam S.M. and Biemann C.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: the 14th Conference RECENT ADVANCES IN NATURAL LANGUAGE PROCESSING, Varna, Bulgaria
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-ayele-et-al-hate-ranlp-racial.pdf
+
+- title: Using Self-Supervised Dual Constraint Contrastive Learning for Cross-modal Retrieval - European Conference on Artificial Intelligence 2023
+  authors: Wang, X., Li, X., Ding, L., Zhao, S., Biemann, C.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: European Conference on Artificial Intelligence 2023
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-xintong-et-at-ecai.pdf
+
+- title: "Dimensions of Similarity: Towards Interpretable Dimension-Based Text Similarity - European Conference on Artificial Intelligence 2023"
+  authors: Hatzel, H., Petersen-Frey, F., Fischer, T., Biemann, C.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: European Conference on Artificial Intelligence 2023
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-hatzel-et-al-ecai.pdf
+
+- title: Machine learning in computational literary studies
+  authors: Hatzel, H., Stiemer, H., Biemann, C. and Gius, E.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: it - Information Technology
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-hatzel-etal-itit.pdf
+
+- title: "Narrative Cloze as a Training Objective: Towards Modeling Stories Using Narrative Chain Embeddings"
+  authors: Hatzel. H. O., Biemann, C.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: Proceedings of the 5th Workshop on Narrative Understanding, Toronto, Canada. Association for Computational Linguistics
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-hatzel-wnu.pdf
+
+- title: "The D-WISE Tool Suite: Multi-Modal Machine-Learning-Powered Tools Supporting and Enhancing Digital Discourse Analysis."
+  authors: Schneider, Florian, Fischer, Tim, Petersen-Frey, Fynn, Eiser, Isabel, Koch, Gertraud & Biemann, Chris.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023), Toronto, Canada.
+  journallink: https://aclanthology.org/2023.acl-demo.31.pdf
+
+- title: The Role of Output Vocabulary in T2T LMs for SPARQL Semantic Parsing
+  authors: Banerjee, D., Nair, P. A., Usbeck, R., Biemann, C.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: ACL 2023 Findings Short Paper
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-banerjee-acl2023-findings.pdf
+
+- title: "LT at SemEval-2023 Task 1: Effective Zero-Shot Visual Word Sense Disambiguation Approaches using External Knowledge Sources"
+  authors: Schneider, F. and Biemann, C.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval-2023), Toronto, Canada. Association for Computational Linguistics (ACL).
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-schneider-et-al-semeval-task-1-vwsd.pdf
+
+
+- title: "Insight to mechanism of semantic processing of lexicalized and novel compound words: an eye movement study"
+  authors: Wang, J., Yang, J., Biemann, C., Li, X.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: "Journal of Experimental Psychology: learning, memory and cognition (accepted March 2023)"
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-wangetal-jep-preprint.pdf
+
+- title: "DBLP-QuAD: A Question Answering Dataset over the DBLP Scholarly Knowledge Graph"
+  authors: Banerjee, D., Awale, S., Usbeck R., Biemann, C.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: The 13th International Workshop on Bibliometric-enhanced Information Retrieval @ ECIR 2023, Dublin, Ireland
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-banerjee-bir-ecir-2023-dblpquad.pdf
+
+- title: "GETT-QA: Graph Embedding based T2T Transformer for Knowledge Graph Question Answering"
+  authors: Banerjee, D., Nair, P. A., Usbeck R., Biemann, C
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: The Extended Semantic Web Conference, (ESWC 2023), Hersonissos, Greece
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-banerjee-eswc2023.pdf
+
+- title: A system for Human-AI collaboration
+  authors: Banerjee, D., Poser, M., Wiethof, C., Subramanian, V. S., Paucar, R., Bittner, E., Biemann, C.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: The AAAI 2023 Workshop on Representation Learning for Responsible Human-Centric AI, Washington DC, USA
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-banerjee-r2hcai.pdf
+
+- title: "CodeAnno: Extending WebAnno with Hierarchical Document Level Annotation and Automation"
+  authors: Schneider, F., Yimam, S.M., Petersen-Frey , F., Biemann, C., von Nordheim, G., Kleinen-von Königslöw, K.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: The 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), System Demonstrations Track, Dubrovnik, Croatia
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-schneider-et-al-codeanno.pdf
+
+- title: "ARDIAS: AI-Enhanced Research Management, Discovery, and Advisory System"
+  authors: Banerjee, D., Yimam, S.M., Awale, S. and Biemann, C.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: The AAAI-23 Workshop on Scientific Document Understanding at the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-23), Washington, DC, USA.
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-banerjeeetal-ardias-sdu-aaai2023.pdf
+
+- title: Handlung und Narrativität - Zum Verhältnis von Handlungszusammenfassungen und relevanten Ereignissen
+  authors: Hatzel. H. O., Gius, E., Stiemer, H., Biemann, C.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: "Abstracts of DHd 2023: Open Humanities, Open Culture, Luxemburg/Trier."
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-hatzel-dhd-narrativitaet.pdf
+
+- title: D-WISE - Digitale Wissensoziologische Diskursanalyse
+  authors: Fischer, T., Eiser, I., Schneider, F., Petersen-Frey, F., Biemann, C., Koch, G.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: "Abstracts of DHd 2023: Open Humanities, Open Culture, Luxemburg/Trier."
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-fischeretal-dhd-dwise.pdf
+
+- title: "Open Science Prinzipien und interdisziplinäre Kollaboration in D- WISE: Zwischen Hermeneutik und Digitaler Methode in der Diskursanalyse"
+  authors: Eiser, I., Fischer, T., Schneider, F., Koch, G., Biemann, C., Petersen-Frey, F.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: "Abstracts of DHd 2023: Open Humanities, Open Culture, Luxemburg/Trier."
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-eisneretal-dhd-dwise.pdf
+  
+- title: "KIAAA: An AI Assistant for Teaching Programming in the Field of Automation"
+  authors: Eilermann, S.; Wehmeier, L.; Niggemann, O.; Deuter, A.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: IEEE 21st International Conference on Industrial Informatics (INDIN), Lemgo, Germany, pp. 1-7
+  journallink: https://ieeexplore.ieee.org/abstract/document/10218157
+
+- title: Integrating Machine Learning into an SMT-based Planning Approach for Production Planning in Cyber-Physical Production Systems
+  authors: Heesch, R.; Ehrhardt, J.; Niggemann, O.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: International Workshop on Hybrid Models for Coupling Deductive and Inductive Reasoning (HYDRA), ECAI 2023 – European Conference on Artificial Intelligence, Krakau, Poland
+  journallink: https://www.hsu-hh.de/imb/en/
+
+- title: Learning Process Steps as Dynamical Systems for a Sub-Symbolic Approach of Process Planning in Cyber-Physical Production Systems
+  authors: Ehrhardt, J.; Heesch, R.; Niggemann, O.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: International Workshop on Hybrid Models for Coupling Deductive and Inductive Reasoning (HYDRA), ECAI 2023 – European Conference on Artificial Intelligence, Krakau, Poland
+  journallink: https://www.hsu-hh.de/imb/en/
+
+- title: "Robustness and Generalization Performance of Deep Learning Models on Cyber-Physical Systems: A Comparative Study"
+  authors: Windmann, A.; Steude, H.; Niggemann, O.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: Workshop of Artificial Intelligence for Time Series Analysis (AI4TS), IJCAI 2023 – International Joint Conference on Artificial Intelligence, Macao, China
+  journallink: https://www.hsu-hh.de/imb/en/
+
+- title: Using Reverse Reinforcement Learning for Assembly Tasks
+  authors: Widulle, N.; Niggemann, O.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: PRL Workshop – Bridging the Gap Between AI Planning and Reinforcement Learning, IJCAI 2023 – International Joint Conference on Artificial Intelligence, Macao, China
+  journallink: https://www.hsu-hh.de/imb/en/
+
+- title: Using FliPSi to Generate Data for Machine Learning Algorithms
+  authors: Liebert, A.; Wittke, C.; Ehrhardt, J.; Jaufmann, R.; Widulle, N.; Eilermann, S.; Krantz, M.; Niggemann, O.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: IEEE ETFA 2023 – IEEE International Conference on Emerging Technologies and Factory Automation, Siana, Romania
+  journallink: https://www.hsu-hh.de/imb/en/
+
+- title: Transformation eines Fähigkeitsmodells in einen PDDL-Planungsansatz
+  authors: Vieira da Silva, L.M.; Heesch, R.; Köcher, A.; Fay, A.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: at-Automatisierungstechnik 71.2, pp. 105-115
+  journallink: doi.org/10.1515/auto-2022-0112
+
+- title: Machine Learning for Cyber-Physical Systems
+  authors: Niggemann, O.; Zimmering, B.; Steude, H.; Augustin, J.L.; Windmann, A.; Multaheb, S.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: "In: Vogel-Heuser, B.; Wimmer, M. (eds) Digital Transformation. Springer Vieweg, Berlin, Heidelberg"
+  journallink: doi.org/10.1007/978-3-662-65004-2_17
+  
+ 

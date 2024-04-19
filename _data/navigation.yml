@@ -1,0 +1,11 @@
+- name: Home
+  link: /
+- name: People
+  link: /people.html
+- name: Publications
+  link: /publications.html
+- name: Events
+  link: /events.html
+- name: About
+  link: /about.html
+  

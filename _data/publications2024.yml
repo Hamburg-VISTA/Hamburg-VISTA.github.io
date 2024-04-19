@@ -1,0 +1,82 @@
+# _data/publications2024.yml
+
+# -------------------------------- 2024 -----------------------------------
+- title: "OmniJet-α: The first cross-task foundation model for particle physics"
+  authors: J. Birk, A. Hallin, G. Kasieczka 
+  date_published: 2024-03
+  date_publishedprintout: March, 2024
+  e-print: 2403.05618
+
+- title: Software Compensation for Highly Granular Calorimeters using Machine Learning
+  authors: The CALICE Collaboration 
+  date_published: 2024-03
+  date_publishedprintout: March, 2024
+  e-print: 2403.04632
+
+- title: "Classifier Surrogates: Sharing AI-based Searches with the World"
+  authors: S. Bieringer, G. Kasieczka, J. Kieseler, M.Trabs 
+  date_published: 2024-02 
+  date_publishedprintout: February, 2024
+  e-print: 2402.15558
+
+- title: "Sets are all you need: Ultrafast jet classification on FPGAs for HL-LHC"
+  authors: P. Odagiu, Z. Que, J. Duarte, J. Haller, G. Kasieczka, A. Lobanov, V. Loncar, W. Luk, J. Ngadiuba, M. Pierini, P. Rincke, A. Seksaria, S. Summers, A. Sznajder, A. Tapper, T. K. Aarrestad 
+  date_published: 2024-02
+  date_publishedprintout: February, 2024
+  e-print: 2402.01876
+  
+- title: Tell me again! A Large-Scale Dataset of Multiple Summaries for the Same Story
+  authors: Hatzel, H. and Biemann, C.
+  date_published: 2024
+  date_publishedprintout: 2024
+  journal: LREC 2024, Turino, Italy
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2024-hatzel-et-al-lrec.pdf
+
+- title: Coreference in Long Documents using Hierarchical Entity Merging
+  authors: Gupta, T., Hatzel, H. and Biemann, C.
+  date_published: 2024
+  date_publishedprintout: 2024
+  journal: LaTeCH-CLfL 2024, St. Julians, Malta
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2024-gupta-et-al-sighum.pdf
+
+- title: Narrativität visualisieren - Eine Rezeptionsstudie zur Evaluation der heuristischen Qualität von Narrativitätsgraphen
+  authors: Hatzel, H., Stiemer, H., Biemann, C. and Gius, E.
+  date_published: 2024
+  date_publishedprintout: 2024
+  journal: Abstracts of DHd 2024, Passau, Germany
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2024-hatzel-et-al-dhd.pdf
+  
+- title: Plan-Based Derivation of General Functional Structures in Product Design
+  authors: Rosenthal, P.; Demke, N.; Mantwill, F.; Niggemann, O.
+  date_published: 2024
+  date_publishedprintout: 2024
+  journal: 7th IEEE International Conference on Industrial Cyber-Physical Systems (ICPS), St. Louis, USA
+  journallink: https://www.hsu-hh.de/imb/en/
+
+- title: Learning System Descriptions for Cyber-Physical Systems
+  authors: Diedrich, A.; Moddemann, L.; Niggemann, O.
+  date_published: 2024
+  date_publishedprintout: 2024
+  journal: 12th IFAC Symposium on Fault Detection, Supervision and Safety for Technical Processes (SAFEPROCESS), Ferrara, Italy
+  journallink: https://www.hsu-hh.de/imb/en/
+
+- title: Discret2Di – Deep Learning based Discretization for Model-based Diagnosis
+  authors: Moddemann, L.; Steude, H.; Diedrich, A.; Niggemann, O.
+  date_published: 2024
+  date_publishedprintout: 2024
+  journal: 12th IFAC Symposium on Fault Detection, Supervision and Safety for Technical Processes (SAFEPROCESS), Ferrara, Italy
+  journallink: https://www.hsu-hh.de/imb/en/
+
+- title: Diagnosis driven Anomaly Detection for Cyber-Physical Systems
+  authors: Steude, H.; Moddemann, L.; Diedrich, A.; Ehrhardt, J.; Niggemann, O.
+  date_published: 2024
+  date_publishedprintout: 2024
+  journal: 12th IFAC Symposium on Fault Detection, Supervision and Safety for Technical Processes (SAFEPROCESS), Ferrara, Italy
+  journallink: https://www.hsu-hh.de/imb/en/
+
+- title: Bayesian Transfer Learning of Neural Network-Based Interatomic Force Models
+  authors: Rensmeyer, T.; Großmann, W.; Kramer, D.; Niggemann, O.
+  date_published: 2024
+  date_publishedprintout: 2024
+  journal: The 38th Annual AAAI Conference on Artificial Intelligence | Workshop on AI to Accelerate Science and Engineering, Vancouver, Canada
+  journallink: https://www.hsu-hh.de/imb/en/

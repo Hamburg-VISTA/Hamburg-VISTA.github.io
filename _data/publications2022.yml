@@ -1,0 +1,273 @@
+# _data/publications2022.yml
+
+# -------------------------------- 2022 -----------------------------------------  
+
+- title: "Morphological Classification of Radio Galaxies with wGAN-supported Augmentation"
+  authors: L. Rustige, J. Kummer, F. Griese, K. Borras, M. Brüggen, P. Connor, F. Gaede, G. Kasieczka, T. Knopp, P. Schleper
+  date_published: 2022-12
+  date_publishedprintout: December, 2022
+  journal: "RAS Techniques and Instruments, Volume 2, Issue 1, January 2023, Pages 264–277"
+  journallink: https://doi.org/10.1093/rasti/rzad016
+  e-print: 2212.08504
+
+- title: "Feature Selection with Distance Correlation"
+  authors: R. Das, G. Kasieczka, D. Shih
+  date_published: 2022-11
+  date_publishedprintout: November, 2022
+  e-print: 2212.00046
+
+- title: "Resonant anomaly detection without background sculpting"
+  authors: A. Hallin, G. Kasieczka, T. Quadfasel, D. Shih, M. Sommerhalder
+  date_published: 2022-10
+  date_publishedprintout: October, 2022
+  journal: "Phys. Rev. D 107, 114012"
+  journallink: https://doi.org/10.1103/PhysRevD.107.114012
+  e-print: 2210.14924
+
+- title: "Anomaly Detection under Coordinate Transformations"
+  authors: G. Kasieczka, R. Mastandrea, V. Mikuni, B. Nachman, M. Pettee, D. Shih
+  date_published: 2022-09
+  date_publishedprintout: September, 2022
+  journal: "Phys. Rev. D 107, 015009"
+  journallink: https://doi.org/10.1103/PhysRevD.107.015009
+  e-print: 2209.06225
+
+- title: "Data Science and Machine Learning in Education"
+  authors: G. Benelli, G. Chachamis, T. Chen, J. Duarte, M. Feickert, M. Graham, L. Gray, D. Hackett, P. Harris, S.-C. Hsu, G. Kasieczka, E. Khoda, M. Komm, M. Liu, M. Neubauer, S. Norberg, A. Perloff, M. Rieger, A. Roy, C. Savard, K. Terao, S. Thais, J.-R. Vlimant,
+  date_published: 2022-07
+  date_publishedprintout: July, 2022
+  e-print: 2207.09060
+
+- title: "Radio Galaxy Classification with wGAN-Supported Augmentation"
+  authors: K. Borras, M. Brüggen, P. Connor, F. Gaede, F. Griese, G. Kasieczka, J. Kummer, L. Rustige, P. Schleper
+  date_published: 2022-06
+  date_publishedprintout: June, 2022
+  journal: "INFORMATIK 2022 Workshops, P-326 469-478 (2022), Lecture Notes in Informatics (LNI)"
+  journallink: https://doi.org/10.18420/inf2022_38
+  e-print: 2206.15131
+
+- title: "New directions for surrogate models and differentiable programming for High Energy Physics detector simulation"
+  authors: A. Adelmann, W. Hopkins, E. Kourlitis, M. Kagan, G. Kasieczka, C. Krause, V. Mikuni, B. Nachman, K. Pedro, D. Shih, D. Winklehner
+  date_published: 2022-03
+  date_publishedprintout: March, 2022
+  e-print: 2203.08806
+
+- title: "Machine Learning and LHC Event Generation"
+  authors: A. Butter (ed), T. Plehn (ed), S. Schumann (ed), S. Badger, S. Caron, K. Cranmer, F. A. Di Bello, E. Dreyer, S. Forte, S. Ganguly, D. Gonçalves, E. Gross, T. Heimel, G. Heinrich, L. Heinrich, A. Held, S. Höche, J. N. Howard, P. Ilten, J. Isaacson, T. Janßen, S. Jones, M. Kado, M. Kagan, G. Kasieczka, F. Kling, S. Kraml, C. Krause, F. Krauss, K. Kröninger, R. K. Barman, M. Luchmann, V. Magerya, D. Maitre, B. Malaescu, F. Maltoni, T. Martini, O. Mattelaer, B. Nachman, S. Pitz, J. Rojo, M. Schwartz, D. Shih, F. Siegert, R. Stegeman, B. Stienen, J. Thaler, R. Verheyen, D. Whiteson, R. Winterhalder, J. Zupan
+  date_published: 2022-03
+  date_publishedprintout: March, 2022
+  journal: "SciPost Phys. 14, 079 (2023)"
+  journallink: https://doi.org/10.21468/SciPostPhys.14.4.079
+  e-print: 2203.07460
+
+- title: "Ephemeral Learning - Augmenting Triggers with Online-Trained Normalizing Flows"
+  authors: A. Butter, S. Diefenbacher, G. Kasieczka, B. Nachman, T. Plehn, D. Shih, R. Winterhalder
+  date_published: 2022-02
+  date_publishedprintout: February, 2022
+  journal: "SciPost Phys. 13, 087 (2022)"
+  journallink: https://doi.org/10.21468/SciPostPhys.13.4.087
+  e-print: 2202.09375
+
+- title: "Calomplification -- The Power of Generative Calorimeter Models"
+  authors: S. Bieringer, S. Diefenbacher, E. Eren, F. Gaede, D. Hundhausen, G. Kasieczka, B. Nachman, T. Plehn, M. Trabs
+  date_published: 2022-02
+  date_publishedprintout: February, 2022
+  journal: "JINST 17 P09028"
+  journallink: https://doi.org/10.1088/1748-0221/17/09/P09028
+  e-print: 2202.07352
+
+- title: Modeling Referential Gaze in Task-oriented Settings of Varying Referential Complexity.
+  authors: Alaçam, Ö., Ruppert, E., Malhotra, G., Biemann, C., Zarrieß, S
+  date_published: 2022
+  date_publishedprintout: 2022
+  journal: "In Findings of the Association for Computational Linguistics: AACL-IJCNLP 2022, pages 197–210"
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2022-alacametal-aacl.pdf
+
+- title: Wie man interdisziplinäre Kooperationen zwischen Kommunikationswissenschaft und Informatik gut gestaltet.
+  authors: Kleinen-von Königslöw, K., Biemann, C.
+  date_published: 2022
+  date_publishedprintout: 2022
+  journal: Aviso - Informationsdienst der Deutschen Gesellschaft für Publizistik- und Kommunikationswissenschaft 2022(2):8-9
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2022-kleinenbiemann-aviso.pdf
+
+- title: Challenges of Amharic Hate Speech Data Annotation Using Yandex Toloka Crowdsourcing Platform
+  authors: Ayele A.A., Belay T.D., Yimam S.M., Dinter S., Asfaw, T.T., Biemann C.
+  date_published: 2022
+  date_publishedprintout: 2022
+  journal: The Sixth Widening Natural Language Processing Workshop (WiNLP 2022) in conjunction with EMNLP 2022, Abu Dhabi, UAE
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2022-ayeleetal-winlp20222.pdf
+
+- title: "The 5Js in Ethiopia: Amharic Hate Speech Data Annotation Using Toloka Crowdsourcing Platform"
+  authors: Ayele A.A., Belay T.D., Asfaw T.T., Dinter S., Yimam S.M., Biemann C.
+  date_published: 2022
+  date_publishedprintout: 2022
+  journal: International Conference on Information and Communication Technology for Development for Africa (ICT4DA 2022), Bahir Dar
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2022-ayeleetal-ict4d20222.pdf
+
+- title: "Language over Labels: Contrastive Language Supervision Exceeds Purely Label-Supervised Classification Performance on Chest X-Rays"
+  authors: Wiehe A., Schneider F., Blank S., Wang X., Zorn H., Biemann C.
+  date_published: 2022
+  date_publishedprintout: 2022
+  journal: Proc. AACL SRW 2022, Taiwan
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/wieheetal2022.pdf
+
+- title: Measuring Faithfulness of Abstractive Summaries
+  authors: Fischer, T., Remus, S., Biemann, C.
+  date_published: 2022
+  date_publishedprintout: 2022
+  journal: Proceedings of the 18th Conference on Natural Language Processing (KONVENS 2022), pages 63-73, Potsdam, Germany
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2022-fischeretal-konvens.pdf
+
+- title: Improved Open Source Automatic Subtitling for Lecture Videos
+  authors: Geislinger, R., Milde, B., Biemann, C.
+  date_published: 2022
+  date_publishedprintout: 2022
+  journal: Proceedings of the 18th Conference on Natural Language Processing (KONVENS 2022), pages 98–103, Potsdam, Germany
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2022-geislingeretal-konvens.pdf
+
+- title: "More Like This: Semantic Retrieval with Linguistic Information"
+  authors: Remus S., Wiedemann G., Anwar S., Petersen-Frey F., Yimam S. M., Biemann C.
+  date_published: 2022
+  date_publishedprintout: 2022
+  journal: Proceedings of the 18th Conference on Natural Language Processing (KONVENS 2022), pages 156–166, Potsdam, Germany
+  journallink: https://aclanthology.org/2022.konvens-1.19.pdf
+
+- title: Language Models Explain Word Reading Times Better Than Empirical Predictability
+  authors: Hofmann, M.J., Remus, S., Biemann, C., Radach, R., Kuchinke L.
+  date_published: 2022
+  date_publishedprintout: 2022
+  journal: Frontiers in Artificial Intelligence 2022(4):730570
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2022-hofmannetal-frai.pdf
+
+- title: "CWITR: A Corpus for Automatic Complex Word Identification in Turkish Texts"
+  authors: Ilgen, B., Biemann, C.
+  date_published: 2022
+  date_publishedprintout: 2022
+  journal: Proc. International Conference on Natural Language Processing and Information Retrieval (NLPIR 2022), Bangkok, Thailand
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2022-ilgen-nlpir.pdf
+
+- title: Measuring Gender Bias in German Language Generation
+  authors: Kraft, A., Zorn, H.P., Fecht, P., Simon, J., Biemann, C., Usbeck, R.
+  date_published: 2022
+  date_publishedprintout: 2022
+  journal: Proc. INFORMATIK 2022, Bonn, Germany
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2022-kraftetal-informatik.pdf
+
+- title: Wissensrohstoff Text. Eine Einführung in das Text Mining
+  authors: Biemann, C., Heyer, G., Quasthoff, U.
+  date_published: 2022
+  date_publishedprintout: 2022
+  journal: Springer Vieweg
+  journallink: https://link.springer.com/book/10.1007/978-3-658-35969-0 (glossary pdf)
+
+- title: D-WISE Tool Suite for the Sociology of Knowledge Approach to Discourse
+  authors: Koch, G., Biemann, C., Eiser, I., Fischer, T., Schneider, F., Stumpf, T., García, A.T.
+  date_published: 2022
+  date_publishedprintout: 2022
+  journal: Proc. Culture and Computing. HCII 2022. Lecture Notes in Computer Science, vol 13324, Springer, Cham
+  journallink: https://doi.org/10.1007/978-3-031-05434-1_5
+
+- title: Question Answering Classification for Amharic Social Media Community Based Questions
+  authors: Belay, T. D., Yimam S. M., Ayele, A. A., and Biemann, C.
+  date_published: 2022
+  date_publishedprintout: 2022
+  journal: The 1st Annual Meeting of the ELRA/ISCA Special Interest Group on Under-Resourced Languages (SIGUL 2022), Marseille, France
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2022-belayetal-sigullrec2022.pdf
+
+- title: "Elvis vs. M. Jackson: Who has More Albums? Classification and Identification of Elements in Comparative Question"
+  authors: Beloucif M., Yimam S.M., Stahlhacke S., Biemann C.
+  date_published: 2022
+  date_publishedprintout: 2022
+  journal: In the 2022 International Conference on Language Resources and Evaluation (LREC 2022), Marseille, France
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2022-beloucifetal-lrec2022.pdf
+
+- title: Classification of German Jungian Extraversion and Introversion Texts with Assessment of Changes during the COVID-19 Pandemic
+  authors: Johannßen, D., Biemann, C., Scheffer, D.
+  date_published: 2022
+  date_publishedprintout: 2022
+  journal: Proceedings of the LREC22 workshop on Resources and Processing of linguistic, para-linguistic and extra-linguistic Data from people with various forms of cognitive / psychiatric / developmental impairments (RaPID-4)
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2022-johannssen-biemann-scheffer-rapid4.pdf
+
+- title: Modern Baselines for SPARQL Semantic Parsing
+  authors: Banerjee, D., Nair, P. A., Kaur, J. N., Usbeck, R., Biemann, C.
+  date_published: 2022
+  date_publishedprintout: 2022
+  journal: Proceedings of The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’22)
+  journallink: https://arxiv.org/abs/2204.12793
+
+- title: "Golden Retriever: A Real-Time Multi-Modal Text-Image Retrieval System with the Ability to Focus"
+  authors: Schneider, F., and Biemann, C.
+  date_published: 2022
+  date_publishedprintout: 2022
+  journal: Proceedings of The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’22)
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2022-schneider-biemann-sigir22.pdf
+
+- title: "Neural entity linking: A survey of models based on deep learning"
+  authors: Sevgili, Ö., Shelmanov, A., Arkhipov, M., Panchenko, A., Biemann, C.
+  date_published: 2022
+  date_publishedprintout: 2022
+  journal: Semantic Web   journal, vol. 13, no. 3, pp. 527-570, IOS Press (2022)
+  journallink: https://content.iospress.com/articles/semantic-web/sw222986
+
+- title: Dataset of Student Solutions to Algorithm and Data Structure Programming Assignments
+  authors: Petersen-Frey, F., Soll, M., Kobras, L., Johannsen, M., Kling, P., Biemann, C.
+  date_published: 2022
+  date_publishedprintout: 2022
+  journal: Proceedings of the 2022 Language Resource and Evaluation Conference (LREC), Marseille, France
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2022-petersenfreyetal-lrec.pdf
+
+- title: "MOTIF: Contextualized Images for Complex Words to Improve Human Reading"
+  authors: Wang, X., Schneider, F., Alacam, Ö., Chaudhury, P., Biemann, C.
+  date_published: 2022
+  date_publishedprintout: 2022
+  journal: Proceedings of the 2022 Language Resource and Evaluation Conference (LREC), Marseille, France
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2022-wangetal-lrec.pdf
+
+- title: Using Distributional Thesaurus To Enhance Transformer-based Contextualized Representations for Low Resource Languages
+  authors: Venkatesh, G., Jana, A., Remus, S., Sevgili, Ö., Srinivasaraghavan, G., and Biemann, C.
+  date_published: 2022
+  date_publishedprintout: 2022
+  journal: Proceedings of the 37th ACM/SIGAPP Symposium On Applied Computing (SAC)
+  journallink: https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/sac.pdf#sac
+
+- title: "Hypernymy Detection for Low-Resource Languages: A Study for Hindi, Bengali, and Amharic"
+  authors: Jana, A., Venkatesh, G., Yimam, S. M., and Biemann, C.
+  date_published: 2022
+  date_publishedprintout: 2022
+  journal: ACM Transactions on Asian and Low-Resource Language Information Processing
+  journallink: https://dl.acm.org/doi/pdf/10.1145/3490389
+
+- title: Learning physically meaningful representations of energy systems with variational autoencoders
+  authors: Multaheb, S.; Bauer, F.; Bretschneider, P.; Niggemann, O.
+  date_published: 2022
+  date_publishedprintout: 2022
+  journal: 27th IEEE International Conference on Emerging Technologies and Factory Automation, ETFA 2022, Stuttgart, Germany, September 6 – 9
+  journallink: https://www.hsu-hh.de/imb/en/
+
+- title: "Using domain-knowledge to improve machine learning: A survey of recent advances"
+  authors: Rensmeyer, T.; Multaheb, S.; Putzke, J.; Zimmering, B.; Niggemann, O.
+  date_published: 2022
+  date_publishedprintout: 2022
+  journal: atp Magazin 8/2022, Vulkan Verlag
+  journallink: https://www.hsu-hh.de/imb/en/
+
+- title: Improving remote material classification ability with thermal imagery
+  authors: Großmann, W.; Horn, H.; Niggemann, O.
+  date_published: 2022
+  date_publishedprintout: 2022
+  journal: Sci Rep 12, Article 17288
+  journallink: doi.org/10.1038/s41598-022-21588-4
+
+- title: An AI benchmark for Diagnosis, Reconfiguration & Planning
+  authors: Ehrhardt, Jonas; Ramonat, Malte; Heesch, René; Balzereit, Kaja; Diedrich, Alexander; Niggemann, Oliver
+  date_published: 2022
+  date_publishedprintout: 2022
+  journal: 27th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA2022)
+  journallink: https://www.hsu-hh.de/imb/en/
+
+- title: On Residual-based Diagnosis of Physical Systems
+  authors: Dietrich, Alexander; Niggemann, Oliver
+  date_published: 2022
+  date_publishedprintout: 2022
+  journal: Elsevier Engineering Applications of Artificial Intelligence
+  journallink: https://www.sciencedirect.com/science/article/pii/S0952197621004450
