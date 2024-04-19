@@ -29,7 +29,7 @@ VISTA is governed by an executive board with one member designated by each partn
 
 ### List of founding partners
 
-DESY, HSU, TUHH (TBC), UHH
+DESY, HSU, TUHH, UHH
 
 ### Board
 
