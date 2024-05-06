@@ -271,3 +271,10 @@
   date_publishedprintout: 2022
   journal: Elsevier Engineering Applications of Artificial Intelligence
   journallink: https://www.sciencedirect.com/science/article/pii/S0952197621004450
+  
+- title: Towards Data-Driven Inference of Stencils for Discrete Differential Operators
+  authors: Schumann, Y.; Neumann, P.
+  date_published: 2022
+  date_publishedprintout: 2022
+  journal: PASC
+  journallink: https://doi.org/10.1145/3539781.3539787

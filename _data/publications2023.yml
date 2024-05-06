@@ -390,4 +390,9 @@
   journal: "In: Vogel-Heuser, B.; Wimmer, M. (eds) Digital Transformation. Springer Vieweg, Berlin, Heidelberg"
   journallink: doi.org/10.1007/978-3-662-65004-2_17
   
- 
+- title: Convolutional Recurrent Autoencoder for Molecular-Continuum Coupling
+  authors: Jarmatz, P.; Lerdo, S.; Neumann, P.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: ICCS
+  journallink: https://doi.org/10.1007/978-3-031-36027-5_42
