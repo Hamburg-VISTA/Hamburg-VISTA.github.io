@@ -1,3 +1,47 @@
+/* Quattrocento: Regular and Bold */
+@font-face {
+    font-family: 'Quattrocento';
+    src: url('/assets/fonts/Quattrocento-Regular.woff2') format('woff2'),
+         url('/assets/fonts/Quattrocento-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Quattrocento';
+    src: url('/assets/fonts/Quattrocento-Bold.woff2') format('woff2'),
+         url('/assets/fonts/Quattrocento-Bold.ttf') format('truetype');
+    font-weight: 700; /* Bold */
+    font-style: normal;
+}
+
+/* Quattrocento Sans: Bold */
+@font-face {
+    font-family: 'Quattrocento Sans';
+    src: url('/assets/fonts/QuattrocentoSans-Bold.woff2') format('woff2'),
+         url('/assets/fonts/QuattrocentoSans-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* Roboto: Bold */
+@font-face {
+    font-family: 'Roboto';
+    src: url('/assets/fonts/Roboto-Bold.woff2') format('woff2'),
+         url('/assets/fonts/Roboto-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* Playfair Display: Bold */
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('/assets/fonts/PlayfairDisplay-VariableFont_wght.woff2') format('woff2'),
+         url('/assets/fonts/PlayfairDisplay-VariableFont_wght.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -64,8 +108,8 @@ h3 {
   position: fixed; /*relative;*/
 }
 
-/* Style for the navigation links */
-.navbar nav a {
+/* Style for parent navigation links */
+.navbar nav > .nav-item > a {
   display: inline-block;
   padding: 10px 20px;
   margin: 0 5px;
@@ -76,7 +120,7 @@ h3 {
   position: relative; /* Needed for pseudo-element positioning */
 }
 
-.navbar nav a:hover:after {
+.navbar nav > .nav-item:hover > a:after {
   content: ""; /* Empty content for the pseudo-element */
   position: absolute; /* Position the bar under the link */
   bottom: 5px; /* Align bottom of the bar with the link */
@@ -112,6 +156,61 @@ h3 {
     font-style: normal;
     text-align: center; /* Center text within its container */
     margin: 0; /* Remove default margin */
+}
+
+/* Style for nav items */
+.nav-item {
+  display: inline-block;
+  position: relative;
+}
+
+/* Only show the submenu when hovering over the parent nav item */
+.nav-item:hover .submenu {
+  display: block;
+}
+
+/* Keep the bar under parent link active when submenu is hovered */
+.nav-item:hover > a:after { 
+  content: ""; /* Empty content for the pseudo-element */
+  position: absolute;
+  bottom: 5px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60%;
+  height: 3px;
+  background-color: white;
+  opacity: 0.8;
+  transition: opacity 0.2s ease-in-out;
+}
+
+/* Style for the submenu */
+.submenu {
+  display: none; /* Hide submenu initially */
+  position: absolute;
+  top: 100%; /* Align submenu directly below the parent link */
+  left: 0;
+  background-color: #2b0b43; /* Matching the navbar background */
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  border-radius: 5px; /* Optional rounded corners */
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2); /* Add shadow for better visibility */
+  z-index: 10;
+}
+
+/* Style for submenu links */
+.submenu li a {
+  display: block;
+  padding: 10px 20px;
+  color: white;
+  text-decoration: none;
+  white-space: nowrap; /* Prevent line wrap on long items */
+  transition: background-color 0.2s ease-in-out;
+}
+
+/* Style submenu links on hover and when current */
+.submenu li a:hover {
+  background-color: #1a0e2e; /* Change the color on hover */
 }
 
 /* Images */
