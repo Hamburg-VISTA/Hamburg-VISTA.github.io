@@ -8,4 +8,8 @@
   link: /events.html
 - name: About
   link: /about.html
-  
+  children:
+  - name: Impressum
+    link: /impressum.html
+  - name: Privacy statement
+    link: /privacy_statement.html
