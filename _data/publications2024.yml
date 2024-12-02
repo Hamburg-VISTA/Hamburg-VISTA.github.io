@@ -5,7 +5,8 @@
   authors: J. Birk, A. Hallin, G. Kasieczka 
   date_published: 2024-03
   date_publishedprintout: March, 2024
-  e-print: 2403.05618
+  journal: "Mach. Learn.: Sci. Technol. 5 035031 (2024)"
+  journallink: https://doi.org/10.1088/2632-2153/ad66ad
 
 - title: Software Compensation for Highly Granular Calorimeters using Machine Learning
   authors: The CALICE Collaboration 
@@ -87,3 +88,9 @@
   date_publishedprintout: 2024
   journal: Brain Pathology
   journallink: https://doi.org/10.1111/bpa.13239
+  
+- title: A deep learning model for the density profiles of subhaloes in IllustrisTNG
+  authors: Lucie-Smith, L.; Despali, G.; Springel, V.
+  date_published: 2024
+  date_publishedprintout: 2024
+  e-print: 2403.12125

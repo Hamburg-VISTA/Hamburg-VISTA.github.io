@@ -396,3 +396,17 @@
   date_publishedprintout: 2023
   journal: ICCS
   journallink: https://doi.org/10.1007/978-3-031-36027-5_42
+
+- title: Halo assembly bias from a deep learning model of halo formation
+  authors: Lucie-Smith, L.; Barreira, A.; Schmidt, F.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: MNRAS 524(2), 1746-1756, 2023
+  journallink: https://doi.org/10.1093/mnras/stad2003
+  
+- title: Explaining dark matter halo density profiles with neural networks
+  authors: Lucie-Smith, L.; Peiris, H.V.; Pontzen, A
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: Phys. Rev. Lett. 132, 031001 (2024)
+  journallink: https://doi.org/10.1103/PhysRevLett.132.031001
