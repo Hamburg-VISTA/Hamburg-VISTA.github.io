@@ -4,6 +4,16 @@ title: Hamburg VISTA - Events
 ---
 
 # Events
+## Second event of Hamburg VISTA
+Thursday February 27, 2025, 10:00-13:00<br>
+<a href="https://maps.app.goo.gl/hiVXsidWVvu1YuWg6" target="_blank">ESA W-221</a>, Universität Hamburg, Edmund-Siemers-Allee 1, Flügelbau West, Hamburg
+
+Prof. Luisa Lucie-Smith of UHH and Dr. Sebastian Götschel of TUHH will offer exciting insights into their research on ML in physics. Following the talks, participants will have an opportunity to meet and network over lunch.
+
+Participation (including lunch) is free, but <a href="https://indico.desy.de/event/47597/" target="_blank">registration</a> is required. <strong>Registration deadline for in-person attendence: February 20</strong>. Remote (zoom-only) registration will be possible until the end of the event. 
+
+For further information, please see the <a href="https://indico.desy.de/event/47597/" target="_blank">Indico page</a>.
+ 
 ## First event of Hamburg VISTA
 Thursday June 13, 2024, 15:00<br> 
 KR 1002, Helmut-Schmidt-Universität, Holstenhofweg 85, 22043 Hamburg
