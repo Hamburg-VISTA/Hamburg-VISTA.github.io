@@ -11,7 +11,7 @@ The Hamburg metropolitan region is home to a fast growing number of research act
 
 For this reason, _Hamburg Virtual Initiative for Science & Technology in AI: Hamburg VISTA_ has been established. Beyond this web site highlighting PIs, publications, and events , further connections and networking opportunities are provided by a mailing list and a rotating series of scientific presentations by members at all partner sites. To strengthen interdisciplinary collaborative research a cohort of PhD students each jointly supervised by two VISTA researchers is established. Formally, PhD students are associated with one partner institution via their primary supervisor.
 
-VISTA complements the ecosystem of <a href="https://www.dashh.org/"target="_blank">DASHH</a>, <a href="https://www.cdcs.uni-hamburg.de/"target="_blank">CDCS</a>, <a href="https://www.hcds.uni-hamburg.de/"target="_blank">HCDS</a>, and <a href="https://datascience-hamburg.org/"target="_blank">KIEZ</a> by connecting researchers across different insitutions in the Hamburg metropolitan region focusing on leading AI research and applications.
+VISTA complements the ecosystem of <a href="https://www.dashh.org/" target="_blank">DASHH</a>, <a href="https://www.cdcs.uni-hamburg.de/" target="_blank">CDCS</a>, <a href="https://www.hcds.uni-hamburg.de/" target="_blank">HCDS</a>, and <a href="https://datascience-hamburg.org/" target="_blank">KIEZ</a> by connecting researchers across different insitutions in the Hamburg metropolitan region focusing on leading AI research and applications.
 
 ### Goals
 
