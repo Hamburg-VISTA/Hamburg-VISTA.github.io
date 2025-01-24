@@ -69,6 +69,10 @@ body {
     font-size: 100%;
 }
 
+strong, b {
+    font-weight: 700;
+}
+
 h1 {
     font-family: "Gelasio", Roboto, Arial, Helvetica, sans-serif;
     font-optical-sizing: auto;
