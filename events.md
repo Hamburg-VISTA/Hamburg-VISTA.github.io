@@ -5,7 +5,7 @@ title: Hamburg VISTA - Events
 
 # Events
 ## VISTA seminar & School of Graduate Research (VISOR) matchmaking event
-Thursday February 27, 2025, 10:00-13:00<br>
+<strong>Thursday February 27, 2025, 10:00-13:00</strong><br>
 ESA W-221, Universität Hamburg, Edmund-Siemers-Allee 1, Flügelbau West, Hamburg <a href="https://maps.app.goo.gl/hiVXsidWVvu1YuWg6" target="_blank">[Directions]</a>
 
 The VISOR initiative is designed to strengthen interdisciplinary collaboration in AI research across Hamburg by fostering partnerships between PIs, enabling innovative projects, and preparing for major grant applications. This event will be a valuable platform to learn more about VISOR, the current call for projects, and how to get involved.
@@ -17,7 +17,7 @@ Participation (including lunch) is free, but registration is required. <strong>R
 For further information and registration, please see the <a href="https://indico.desy.de/event/47597/" target="_blank">Indico page</a>.
  
 ## First seminar of Hamburg VISTA
-Thursday June 13, 2024, 15:00<br> 
+<strong>Thursday June 13, 2024, 15:00</strong><br> 
 KR 1002, Helmut-Schmidt-Universität, Holstenhofweg 85, 22043 Hamburg
 
 Agenda:
