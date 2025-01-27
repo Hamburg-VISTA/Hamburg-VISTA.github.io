@@ -1,0 +1,21 @@
+# _data/publications2025.yml
+
+# -------------------------------- 2025 -----------------------------------
+- title: "Universal New Physics Latent Space"
+  authors: Hallin, A., Kasieczka, G., Kraml, S., Lessa, A., Moureaux, L., von Schwartz, T., Shih, D 
+  date_published: 2025-01
+  date_publishedprintout: January, 2025
+  journal: "Phys. Rev. D 111, 016006"
+  journallink: https://doi.org/10.1103/PhysRevD.111.016006
+
+- title: "OmniJet-αC: Learning point cloud calorimeter simulations using generative transformers"
+  authors: Birk, J., Gaede, F., Hallin, A., Kasieczka, G., Mozzanica, M., Rose, H.
+  date_published: 2025-01
+  date_publishedprintout: January, 2025
+  e-print: 2501.05534
+
+- title: "Large Physics Models: Towards a collaborative approach with Large Language Models and Foundation Models"
+  authors: Barman, K. G., Caron, S., Sullivan, E., de Regt, H.W., de Austri, R. R., Boon, M., Färber, M., Fröse, S., Hasibi, F., Ipp, A., Kapoor, R., Kasieczka, G., Kostić, D., Krämer, M., Golling, T., Lopez, L. G., Marco, J., Otten, S., Pawlowski, P., Vischia, P., Weber, E., Weniger, C.
+  date_published: 2025-01
+  date_publishedprintout: January, 2025
+  e-print: 2501.05382

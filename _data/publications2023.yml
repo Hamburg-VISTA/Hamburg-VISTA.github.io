@@ -410,3 +410,45 @@
   date_publishedprintout: 2023
   journal: Phys. Rev. Lett. 132, 031001 (2024)
   journallink: https://doi.org/10.1103/PhysRevLett.132.031001
+ 
+- title: "CASP15 cryo-EM protein and RNA targets: Refinement and analysis using experimental maps"
+  authors: Mulvaney T., Kretsch R.C., Elliott L., Beton J.G., Kryshtafovych A., Rigden D.J., Das R., Topf M.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: Proteins 91:1935–1951
+  journallink: https://doi.org/10.1002/prot.26644 
+ 
+- title: "PICKLUSTER: A protein-interface clustering and analysis plug-in for UCSF ChimeraX"
+  authors: Genz  L.R., Mulvaney T., Nair S., Topf, M.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: "Bioinformatics 39: btad629"
+  journallink: https://doi.org/10.1093/bioinformatics/btad629
+
+- title: Critical assessment of methods of protein structure prediction (CASP)—Round XV
+  authors: Kryshtafovych A., Schwede T., Topf M., Fidelis K., Moult J.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: "Proteins 91:1539-1549"
+  journallink: https://doi.org/10.1002/prot.26617
+
+- title: "RIBFIND2: Identifying rigid bodies in protein and nucleic acid structures"
+  authors: Malhotra S., Mulvaney T.,Cragnolini T., Sidhu H., Joseph A.P., Beton J.G., Topf M.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: "Nucleic Acids Res. 51: 9567-9575"
+  journallink: https://doi.org/10.1093/nar/gkad721
+
+- title: Assessment of three-dimensional RNA structure prediction in CASP15
+  authors: Das R., Kretsch R.C., Simpkin A., Mulvaney T., Pham P., Rangan R., Bu F., Keegan R., Topf M., Rigden D., Miao Z., Westhof E.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: "Proteins 91:1747-1770"
+  journallink: https://doi.org/10.1002/prot.26602
+
+- title: Integrating model simulation tools and cryo‐electron microscopy
+  authors: Beton J.G., Cragnolini T., Kaleel M., Mulvaney T., Sweeney A., Topf M.
+  date_published: 2023
+  date_publishedprintout: 2023
+  journal: "WIREs Comput Mol Sci.2023;13:e1642."
+  journallink: https://doi.org/10.1002/wcms.1642

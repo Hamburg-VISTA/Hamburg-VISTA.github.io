@@ -94,3 +94,72 @@
   date_published: 2024
   date_publishedprintout: 2024
   e-print: 2403.12125
+
+- title: Modeling flexible protein structure with AlphaFold2 and cross-linking mass spectrometry
+  authors: Manalastas-Cantos K., Adoni K.R., Pfeifer M., Märtens B., Grünewald K., Thalassinos K., Topf M.
+  date_published: 2024
+  date_publishedprintout: 2024
+  journal: Mol Cell Proteomics 23:100724
+  journallink: https://doi.org/10.1016/j.mcpro.2024.100724
+
+- title: Cryo-EM structure and B-factor refinement with ensemble representation
+  authors: Beton J.G., Mulvaney T., Cragnolini T., Topf M.
+  date_published: 2024
+  date_publishedprintout: 2024
+  journal: Nat Commun 15:444
+  journallink: https://doi.org/10.1038/s41467-023-44593-1
+  
+- title: "ChemEM: Flexible Docking of Small Molecules in Cryo-EM Structures"
+  authors: Sweeney A., Mulvaney T., Maiorca M., Topf M.
+  date_published: 2024
+  date_publishedprintout: 2024
+  journal: J. Med. Chem. 67:199–212
+  journallink: https://doi.org/10.1021/acs.jmedchem.3c01134
+
+- title: "Aspen Open Jets: Unlocking LHC Data for Foundation Models in Particle Physics"
+  authors: Amram, O., Anzalone, L., Birk, J., Faroughy, D., Hallin, A., Kasieczka, G., Krämer, M., Pang, M., Reyes-Gonzalez, H., Shih, D.
+  date_published: 2024-12
+  date_publishedprintout: December, 2024
+  e-print: 2412.10504
+
+- title: "Learning Broken Symmetries with Approximate Invariance"
+  authors: Nabat, S., Ghosh, A., Witkowski, E., Kasieczka, G., Whiteson, D.
+  date_published: 2024-12
+  date_publishedprintout: December, 2024
+  e-print: 2412.18773
+
+- title: "Accurate and robust methods for direct background estimation in resonant anomaly detection"
+  authors: Das, R., Finke, T., Hein, M., Kasieczka, G., Krämer, M., Mück, A., Shih, D.
+  date_published: 2024-11
+  date_publishedprintout: November, 2024
+  e-print: 2411.00085
+
+- title: "CaloChallenge 2022: A Community Challenge for Fast Calorimeter Simulation"
+  authors: Krause, C., Giannelli, M.F., Kasieczka, G., Nachman, B., Salamani, D., Shih, D., Zaborowska, A., et al.
+  date_published: 2024-10
+  date_publishedprintout: October, 2024
+  e-print: 2410.21611
+
+- title: "Calibrating Bayesian Generative Machine Learning for Bayesiamplification"
+  authors: Bieringer, S., Diefenbacher, S., Kasieczka, G., Trabs, M.
+  date_published: 2024-08
+  date_publishedprintout: August, 2024
+  e-print: 2408.00838
+
+- title: "Convolutional L2LFlows: Generating Accurate Showers in Highly Granular Calorimeters Using Convolutional Normalizing Flows"
+  authors: Buss, T., Gaede, F., Kasieczka, G., Krause, C., Shih, D.
+  date_published: 2024-05
+  date_publishedprintout: May, 2024
+  e-print: 2405.20407
+
+- title: "Accelerating Resonance Searches via Signature-Oriented Pre-training"
+  authors: Li, C., Agapitos, A., Drews, J., Duarte, J., Fu, D., Gao, L., Kansal, R., Kasieczka, G., Moureaux, L., Qu, H., Suarez, C. M., Li, Q.
+  date_published: 2024-05
+  date_publishedprintout: May, 2024
+  e-print: 2405.12972
+
+- title: "Complete Optimal Non-Resonant Anomaly Detection"
+  authors: Kasieczka, G., Raine, J. A., Shih, D., Upadhyay, A.
+  date_published: 2024-04
+  date_publishedprintout: April, 2024
+  e-print: 2404.07258
