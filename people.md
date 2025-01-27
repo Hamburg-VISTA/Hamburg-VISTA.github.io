@@ -19,7 +19,6 @@ title: Hamburg VISTA - People
 </div>
 
 ### Members
-This list is not yet complete, more PIs will be added here.
 
 {% assign sorted_people = site.people_PIs | sort: 'lastname' %}
 <div class="profile-container">
