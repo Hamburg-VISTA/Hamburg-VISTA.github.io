@@ -31,3 +31,28 @@ title: Hamburg VISTA - People
   {% endfor %}
 </div>
 
+### Associated researchers
+
+{% assign sorted_people = site.people_associated | sort: 'lastname' %}
+<div class="profile-container">
+  {% for person in sorted_people %}
+    <div class="profile">
+      <img src="{{ person.photo }}" class="circular-image" alt="Photo of {{ person.firstname }} {{ person.lastname }}">
+      <p><a href="{{ person.link }}" target="_blank">{{ person.title }} {{ person.firstname }} {{ person.lastname }}</a><br>{{ person.affiliation }}</p>
+
+    </div>
+  {% endfor %}
+</div>
+
+### Management
+
+{% assign sorted_people = site.people_management | sort: 'lastname' %}
+<div class="profile-container">
+  {% for person in sorted_people %}
+    <div class="profile">
+      <img src="{{ person.photo }}" class="circular-image" alt="Photo of {{ person.firstname }} {{ person.lastname }}">
+      <p><a href="{{ person.link }}" target="_blank">{{ person.title }} {{ person.firstname }} {{ person.lastname }}</a><br>{{ person.affiliation }}</p>
+
+    </div>
+  {% endfor %}
+</div>
