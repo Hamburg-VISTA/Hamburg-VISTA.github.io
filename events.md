@@ -4,6 +4,12 @@ title: Hamburg VISTA - Events
 ---
 
 # Events
+## VISOR kickoff
+<strong>Thursday January 15, 2025, 14:00-17:00</strong><br>
+Bahrenfeld Campus
+
+Mark your calendars for the kickoff of VISOR! During this event, the PhD students who received funding will present their projects. More information will follow shortly.
+
 ## VISTA seminar & School of Graduate Research (VISOR) matchmaking event
 <strong>Thursday February 27, 2025, 10:00-13:00</strong><br>
 ESA W-221, Universität Hamburg, Edmund-Siemers-Allee 1, Flügelbau West, Hamburg <a href="https://maps.app.goo.gl/hiVXsidWVvu1YuWg6" target="_blank">[Directions]</a>
