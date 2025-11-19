@@ -13,8 +13,6 @@ Associated to VISTA is the VISOR graduate school. VISOR will provide co-funding 
 
 The goal of VISTA/VISOR is not just to advance AI research; but to create a vibrant, connected research ecosystem that will make Hamburg a leading city for applied AI research. 
 
-VISTA is part of the collaborative topic "Computing and Data Science" in the <a href="https://www.pier-plus.de/en/zusammenarbeit.html" target="_blank">PIER PLUS</a> Partnership for Innovation, Eduation and Research in the metropolitan region of Hamburg, and complements the ecosystem of <a href="https://www.dashh.org/" target="_blank">DASHH</a>, <a href="https://www.cdcs.uni-hamburg.de/" target="_blank">CDCS</a>, <a href="https://www.hcds.uni-hamburg.de/" target="_blank">HCDS</a>, and <a href="https://datascience-hamburg.org/" target="_blank">KIEZ</a> by connecting researchers across different institutions in this region focusing on leading AI research and applications.
+VISTA is part of the collaborative topic "Computing and Data Science" in the <a href="https://www.pier-plus.de/en/zusammenarbeit.html" target="_blank">PIER PLUS</a> Partnership for Innovation, Eduation and Research in the metropolitan region of Hamburg, and complements the ecosystem of <a href="https://www.dashh.org/" target="_blank">DASHH</a>, <a href="https://www.hcds.uni-hamburg.de/" target="_blank">HCDS</a>, and <a href="https://datascience-hamburg.org/" target="_blank">KIEZ</a> by connecting researchers across different institutions in this region focusing on leading AI research and applications.
 
-Read more about the <a href="/people.html">people</a> of Hamburg VISTA, our <a href="/publications.html">publications</a> and upcoming <a href="/events.html">events</a>.
-
-
+Read more about the <a href="/people.html">people</a> of Hamburg VISTA, their <a href="/publications.html">publications</a>, our graduate school <a href="/visor.html">VISOR</a>, and upcoming <a href="/events.html">events</a>.
