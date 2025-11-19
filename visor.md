@@ -5,7 +5,7 @@ title: Hamburg VISTA - VISOR
 
 <img src="/assets/images/visor-logo.png" alt="VISOR logo" width="400">
 # VISOR - the VISTA School of Graduate Research
-VISOR provides co-funding for projects on the topic of development or application of AI techniques in the natural sciences and engineering, initiated by pairs of supervisors associated with Hamburg VISTA from different institutions. The first call for projects went out in February 2025, and to date X projects have received funding. Here you can learn more about the projects, and discover their ideas, their goals, and the innovations they are driving. 
+VISOR provides co-funding for projects on the topic of development or application of AI techniques in the natural sciences and engineering, initiated by pairs of supervisors associated with Hamburg VISTA from different institutions. The first call for projects went out in February 2025, and to date 7 projects have received funding. Here you can learn more about the projects, and discover their ideas, their goals, and the innovations they are driving. 
 
 <strong>VISOR spokesperson:</strong> Prof. Gregor Kasieczka (UHH)
 
