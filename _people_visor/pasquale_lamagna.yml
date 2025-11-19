@@ -1,0 +1,11 @@
+---
+project_title: Investigating Human Cytomegalovirus immune evasion strategies through integrated sequence, structure, and functional analysis
+firstname: Pasquale
+lastname: Lamagna
+affiliation: LIV
+supervisor1: Prof. Maya Topf (LIV, UKE)
+supervisor2: Prof. Marcus Altfeld (LIV, UKE)
+photo: /assets/images/pasquale-lamagna.jpg
+intro: Viruses frequently exploit molecular mimicry as an immune-evasion strategy, reproducing host proteins or structural motifs to avoid detection by the immune system. These shared evolutionary features often appear as conserved structural frameworks, which can be leveraged to predict previously unrecognized virus–host interactions. Among known human pathogenic viruses, Human Cytomegalovirus (HCMV) is widely recognized as one of the most effective in immune evasion. HCMV strains exceptionally encode more than 200 genes, many of which contribute to suppressing or modulating the host immune response. Recent advances in bioinformatics now make it possible to detect distant homology between host and viral proteins and to predict the structures of interacting protein pairs. Building on this idea, the project aims to use bioinformatics approaches to identify candidate protein–protein interactions between HCMV and human proteins that could influence immune signaling. High-confidence interaction models will subsequently be validated through in vitro functional assays. By examining how these viral and host proteins interact, the project aims to uncover novel mechanisms of immune evasion used by HCMV that can potentially serve as targets for therapeutics.
+sorting: None
+---

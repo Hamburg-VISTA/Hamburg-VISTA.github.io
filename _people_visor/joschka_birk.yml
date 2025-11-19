@@ -1,0 +1,11 @@
+---
+project_title: "Foundation models for High Energy Physics"
+firstname: Joschka
+lastname: Birk
+affiliation: UHH
+supervisor1: Prof. Gregor Kasieczka (UHH)
+supervisor2: Dr. Frank Gaede (DESY)
+photo: /assets/images/joschka-birk.jpg
+intro: Foundation models are large-scale machine learning models trained on large datasets, capable of being finetuned to different tasks. This project builds on the first cross-task foundation model for jet physics, OmniJet-α, which was developed by the Kasieczka group at UHH inspired by the GPT architecture. While the original model only used tokenized input of a limited set of features, this project will expand this to also include continuous features and a broader feature set. The project will also explore other pretraining strategies besides pure next token prediction. It is expected that this will improve the classification performance of the model.
+sorting: None
+---

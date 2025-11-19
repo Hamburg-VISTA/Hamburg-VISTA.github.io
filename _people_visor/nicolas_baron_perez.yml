@@ -1,0 +1,11 @@
+---
+project_title: "From the big to the small: Applying self-supervised learning from astrophysics to granular particle data"
+firstname: Nicolas
+lastname: Báron Pérez
+affiliation: UHH
+supervisor1: Prof. Marcus Brüggen (UHH)
+supervisor2: Dr. Frank Gaede (DESY)
+photo: /assets/images/nicolas-baron-perez.jpg
+intro: "Modern sky surveys detect millions of radio galaxies, far too many for manual classification. In this PhD project, a powerful self-supervised machine learning method – originally developed to automatically classify radio sources in the LOFAR Two-metre Sky Survey without relying on labelled training data or theoretical models – is now being extended to an entirely new domain: particle physics. The same technique will be adapted to analyse highly granular calorimeter data from particle accelerator experiments. By treating particle showers in calorimeters as 3D images, the algorithm learns meaningful representations from vast amounts of unlabelled simulation data and, after minimal fine-tuning, can distinguish different particle types (e.g. photons from pions) with high accuracy. This interdisciplinary transfer bridges astronomy and high-energy physics, demonstrating how self-supervised learning can overcome the lack of labelled data in both fields. The project combines expertise from radio astronomy (University of Hamburg) and calorimeter development (DESY), contributing to faster and more precise particle identification for future colliders."
+sorting: None
+---

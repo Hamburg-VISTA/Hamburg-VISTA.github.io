@@ -1,0 +1,11 @@
+---
+project_title: "Source Separation of Physical Data with Machine Learning under Integration of Prior Knowledge"
+firstname: Daniel 
+lastname: Boschmann
+affiliation: HSU
+supervisor1: Prof. Oliver Niggemann (HSU) 
+supervisor2: Prof. Gregor Kasieczka (UHH)
+photo: /assets/images/daniel-boschmann.jpeg
+intro: "This project develops machine-learning methods for source separation of physical data by embedding prior knowledge directly into model training. I used high-resolution PGAA spectra to estimate full elemental compositions, casting the task as a complex regression over 57 elements from major to trace levels. Unlike classifiers that predict from a fixed list, the approach integrates reference spectra of pure elements as constraints, yielding physically meaningful priors that improve interpretability, robustness in low-data regimes, and quantitative accuracy across orders of magnitude. To date, baselines on real PGAA data have been built, a domain-specific metric for extreme dynamic ranges has been designed, and an automated pipeline is being constructed: an autoencoder for dimensionality reduction coupled to a separation module trained with spectral priors. Outputs will be validated against expert analyses, with PGAA phase completion targeted for early 2026. A second phase extends the framework to sonar: separating and classifying known and unknown sources using prior frequency-domain patterns, and validating against AIS data. The expected impact is faster, more accurate material composition analysis and improved maritime signal detection for trade monitoring and defense."
+sorting: None
+---
