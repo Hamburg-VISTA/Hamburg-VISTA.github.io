@@ -8,7 +8,7 @@ title: Hamburg VISTA - Events
 <strong>Thursday January 15, 2026, 14:00-17:00</strong><br>
 Bahrenfeld Campus
 
-Mark your calendars for the kickoff of VISOR! During this event, the PhD students who received funding will present their projects. More information will follow shortly.
+Mark your calendars for the kickoff of <a href="/visor.html">VISOR</a>! During this event, the PhD students who received funding will present their projects. More information will follow shortly.
 
 ## VISTA seminar & School of Graduate Research (VISOR) matchmaking event
 <strong>Thursday February 27, 2025, 10:00-13:00</strong><br>
