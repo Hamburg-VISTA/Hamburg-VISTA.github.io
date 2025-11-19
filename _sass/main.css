@@ -255,6 +255,95 @@ h3 {
     margin: 10px;
 }
 
+/* Each profile card (projects / visor) */
+.visor-profile-block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 30%;           /* 3 cards per row on desktop */
+  min-width: 200px;     /* prevents them from getting too small */
+  max-width: 300px;     /* optional, prevents cards from stretching too much */
+  text-align: left;      /* center title, image, etc. */
+  border-radius: 10px;
+  padding: 1rem;
+  background-color: #fff;
+  margin: 1rem;            /* spacing inside the flex container */
+}
+
+/* This makes all titles in a row take equal height */
+.title-wrapper {
+  flex-grow: 1;          /* take as much height as needed to align images */
+  display: flex;
+  align-items: flex-end; /* optional: vertically align text if shorter */
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+}
+
+/* Top block for title + photo */
+.top-block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+/* Title styling */
+.top-block .title {
+  font-weight: bold;
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  text-align: center;
+}
+
+/* Photo */
+.top-block .photo {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 0.5rem;
+}
+
+.top-block .student {
+  font-weight: bold;
+  color: #e61f93;
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  text-align: center;
+}
+
+/* Bottom block grows independently */
+.bottom-block {
+  margin-top: 1rem;
+  text-align: left;
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
+
+/* Subtitle block */
+.subtitle-block {
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
+
+/* Links inside the subtitle */
+.subtitle-block a {
+  color: #2b0b43;
+  text-decoration: none;
+  cursor: pointer;
+  margin-left: 0.25rem;
+}
+
+.subtitle-block a:hover {
+  color: red;
+  text-decoration: underline;
+}
+
 /* Links */
 /* CSS for styling link text */
 a {

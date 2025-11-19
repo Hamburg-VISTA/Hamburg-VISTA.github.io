@@ -6,6 +6,8 @@
   link: /publications.html
 - name: Events
   link: /events.html
+- name: VISOR
+  link: /visor.html
 - name: About
   link: /about.html
   children:

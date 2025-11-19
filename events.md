@@ -5,7 +5,7 @@ title: Hamburg VISTA - Events
 
 # Events
 ## VISOR kickoff
-<strong>Thursday January 15, 2025, 14:00-17:00</strong><br>
+<strong>Thursday January 15, 2026, 14:00-17:00</strong><br>
 Bahrenfeld Campus
 
 Mark your calendars for the kickoff of VISOR! During this event, the PhD students who received funding will present their projects. More information will follow shortly.

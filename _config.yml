@@ -13,7 +13,8 @@ collections:
     output: true
   people_management:
     output: true
-    
+  people_visor:
+    output: true  
  
       
 
