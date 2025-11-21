@@ -1,0 +1,12 @@
+---
+project_title: "IMPUTE: Data Enhancement via Advanced Learning for Imputed Missing Values"
+firstname: Vaibhav 
+lastname: Guptav
+affiliation: HSU
+supervisor1: Prof. Maria Maleshkova (HSU)
+supervisor2: Prof. Stefan Schulte (TUHH)
+photo: /assets/images/vaibhav-guptav.jpg
+intro: "IMPUTE is a sensor-data-driven, imputation-based project focused on improving the quality and reliability of healthcare time-series data while enabling transferability across domains. Modern healthcare systems increasingly rely on continuous monitoring using wearable devices and IoT sensors that record signals such as heart rate, accelerometer data, and blood glucose levels. However, the acquired data often contains missing values due to
+device failures, power loss, connectivity issues, or preprocessing errors, which can degrade the performance of downstream clinical analytics and machine learning models. The project addresses these challenges by developing feature-specific and gap-based imputation techniques. For short-term gaps, IMPUTE investigates and validates polynomial behaviour–based techniques that can accurately preserve local temporal dynamics. For long-term gaps exceeding 2 hours, it proposes a hybrid approach that combines polynomialbased domain knowledge with advanced machine learning methods to reconstruct plausible physiological signals. Finally, the project emphasizes rigorous quality assurance, utilizing advanced prediction and shape-based evaluation metrics to compare imputed values against ground truth, ensuring that reconstructed data are clinically meaningful and suitable for robust predictive modelling."
+sorting: None
+---
