@@ -24,7 +24,7 @@ title: Hamburg VISTA - People
 <div class="profile-container">
   {% for person in sorted_people %}
     <div class="profile">
-      <img src="{{ person.photo }}" class="circular-image" alt="Photo of {{ person.firstname }} {{ person.lastname }}">
+      <img src="{{ person.photo }}" class="circular-image" alt="Photo of {{ person.firstname }} {{ person.lastname }}{% if person.alttext %} ({{ person.alttext }}){% endif %}">
       <p><a href="{{ person.link }}" target="_blank">{{ person.title }} {{ person.firstname }} {{ person.lastname }}</a><br>{{ person.affiliation }}</p>
 
     </div>
@@ -37,7 +37,7 @@ title: Hamburg VISTA - People
 <div class="profile-container">
   {% for person in sorted_people %}
     <div class="profile">
-      <img src="{{ person.photo }}" class="circular-image" alt="Photo of {{ person.firstname }} {{ person.lastname }}">
+      <img src="{{ person.photo }}" class="circular-image" alt="Photo of {{ person.firstname }} {{ person.lastname }}{% if person.alttext %} ({{ person.alttext }}){% endif %}">
       <p><a href="{{ person.link }}" target="_blank">{{ person.title }} {{ person.firstname }} {{ person.lastname }}</a><br>{{ person.affiliation }}</p>
 
     </div>
@@ -50,7 +50,7 @@ title: Hamburg VISTA - People
 <div class="profile-container">
   {% for person in sorted_people %}
     <div class="profile">
-      <img src="{{ person.photo }}" class="circular-image" alt="Photo of {{ person.firstname }} {{ person.lastname }}">
+      <img src="{{ person.photo }}" class="circular-image" alt="Photo of {{ person.firstname }} {{ person.lastname }}{% if person.alttext %} ({{ person.alttext }}){% endif %}">
       <p><a href="{{ person.link }}" target="_blank">{{ person.title }} {{ person.firstname }} {{ person.lastname }}</a><br>{{ person.affiliation }}</p>
 
     </div>
