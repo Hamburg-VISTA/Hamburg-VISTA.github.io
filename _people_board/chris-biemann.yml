@@ -346,7 +346,77 @@ publications:
     venue: "Abstracts of DHd 2024, Passau, Germany"
     url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2024-hatzel-et-al-dhd.pdf"
 
+  - title: "Chinese Toxic Language Mitigation via Sentiment Polarity Consistent Rewrites"
+    authors: ["X. Wang", "Yi. Liu", "J. Pan", "L. Ding", "L. Wang", "C. Biemann"]
+    year: 2025
+    venue: "The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP main)"
+    url: "https://aclanthology.org/2025.emnlp-main.1808"
 
+  - title: "MTabVQA: Evaluating Multi-Tabular Reasoning of Language Models in Visual Space"
+    authors: ["A. Singh", "C. Biemann", "J. Strich"]
+    year: 2025
+    venue: "The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP Findings)"
+    url: "https://aclanthology.org/2025.findings-emnlp.1083"
+
+  - title: "Semi-automatic Sequential Sentence Classification in the Discourse Analysis Tool Suite"
+    authors: ["T. Fischer", "C. Biemann"]
+    year: 2025
+    venue: "Proceedings of NAACL 2025 Demo Track, Albuquerque, NM, USA"
+    url: "https://aclanthology.org/2025.naacl-demo.16"
+
+  - title: "Centurio: On Drivers of Multilingual Ability of Large Vision-Language Model"
+    authors: ["G. Geigle", "F. Schneider", "C. Holtermann", "C. Biemann", "R. Timeofte", "A. Lauscher", "G. Glavas"]
+    year: 2025
+    venue: "The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025), Vienna, Austria"
+    url: "https://aclanthology.org/2025.acl-long.143"
+
+  - title: "How to Compare Things Properly? A Study of Argument Relevance in Comparative Question Answering"
+    authors: ["I. Nikishina", "S. Anwar", "N. Dolgov", "M. Manina", "D. Ignatenko", "A. Shelmanov", "C. Biemann"]
+    year: 2025
+    venue: "The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025), Vienna, Austria"
+    url: "https://aclanthology.org/2025.acl-long.765"
+
+  - title: "HATEPRISM: Policies, Platforms, and Research Integration. Advancing NLP for Hate Speech Proactive Mitigation"
+    authors: ["N. Rizwan", "S. M. Yiman", "D. Dementiva", "F. Skupin", "T. Fischer", "D. Moskowski", "A. Borkar", "R. Geislinger", "P. Saha", "S. Roy", "M. Semmann", "A. Panchenko", "C. Biemann"]
+    year: 2025
+    venue: "The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025), Vienna, Austria"
+    url: "https://aclanthology.org/2025.findings-acl.824"
+
+  - title: "GIMMICK Globally Inclusive Multimodal Multitask Cultural Knowledge Benchmarking"
+    authors: ["F. Schneider", "C. Holtermann", "C. Biemann", "A. Lauscher"]
+    year: 2025
+    venue: "The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025), Vienna, Austria"
+    url: "https://aclanthology.org/2025.findings-acl.500"
+
+  - title: "MVL-SIB: A Massively Multilingual Vision-Language Benchmark for Cross-Modal Topical Matching"
+    authors: ["F. Schmidt", "F. Schneider", "C. Biemann", "G. Glavas"]
+    year: 2025
+    venue: "The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025), Vienna, Austria"
+    url: "https://aclanthology.org/2025.findings-acl.838"
+
+  - title: "CompUGE-Bench (2025): Comparative Understanding and Generation Evaluation Benchmark for Comparative Question Answering"
+    authors: ["A. Shallouf", "I. Nikishina", "C. Biemann"]
+    year: 2025
+    venue: "Proceedings of the 31st International Conference on Computational Linguistics (COLING 2025), Abu Dhabi, UAE"
+    url: "https://aclanthology.org/2025.coling-demos.19"
+
+  - title: "CogSteer: Cognition-Inspired Selective Layer Intervention for Efficiently Steering Large Language Models"
+    authors: ["X. Wang", "J. Pan", "L. Ding", "L. Wang", "L. Jiang", "X. Li", "C. Biemann"]
+    year: 2025
+    venue: "The 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025), Vienna, Austria"
+    url: "https://aclanthology.org/2025.findings-acl.1308"
+
+  - title: "Low-Resource Machine Translation through the Lens of Personalized Federated Learning"
+    authors: ["V. Moskvoretskii", "N. Tupitsa", "C. Biemann", "S. Horváth", "E. Gorbunov", "I. Nikishina"]
+    year: 2024
+    venue: "EMNLP 2024, Findings, Miami, Florida, USA"
+    url: "https://aclanthology.org/2024.findings-emnlp.514"
+
+  - title: "Story Embeddings — Narrative-Focused Representations of Fictional Stories"
+    authors: ["H. Hatzel", "C. Biemann"]
+    year: 2024
+    venue: "EMNLP 2024, Miami, Florida, USA"
+    url: "https://aclanthology.org/2024.emnlp-main.339"
 
 ---
 
