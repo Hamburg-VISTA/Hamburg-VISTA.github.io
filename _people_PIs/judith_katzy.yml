@@ -2,7 +2,8 @@
 title: Dr.
 firstname: Judith
 lastname: Katzy
-affiliation: DESY
+affiliation: 
+  - DESY
 photo: /assets/images/judith-katzy.png
 link: https://atlas.desy.de/activities/top/
 sorting: None

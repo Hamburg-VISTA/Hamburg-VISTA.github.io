@@ -2,7 +2,8 @@
 title: Prof.
 firstname: Marcus
 lastname: Brüggen
-affiliation: UHH
+affiliation: 
+  - UHH
 photo: /assets/images/marcus-brueggen.jpg
 link: https://www.physik.uni-hamburg.de/en/hs/group---brueggen.html
 sorting: None

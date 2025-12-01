@@ -2,7 +2,8 @@
 title: Prof.
 firstname: Johannes
 lastname: Lederer
-affiliation: UHH
+affiliation: 
+  - UHH
 photo: /assets/images/johannes-lederer.jpg
 link: https://www.math.uni-hamburg.de/en/forschung/bereiche/st/math-data-methoden/forschung.html
 sorting: None

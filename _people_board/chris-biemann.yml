@@ -2,9 +2,351 @@
 title: Prof.
 firstname: Chris
 lastname: Biemann
-affiliation: UHH/HCDS
+affiliation: 
+  - UHH
 photo: /assets/images/chris-biemann.jpg
 link: https://www.hcds.uni-hamburg.de/en/hcds/head-hcds.html
 sorting: Board_Other
+
+publications:
+  - title: "Modeling Referential Gaze in Task-oriented Settings of Varying Referential Complexity."
+    authors: ["Ö. Alaçam", "E. Ruppert", "G. Malhotra", "C. Biemann", "S. Zarrieß"]
+    year: 2022
+    venue: "Findings of the Association for Computational Linguistics: AACL-IJCNLP 2022, pages 197–210"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2022-alacametal-aacl.pdf"
+
+  - title: "Wie man interdisziplinäre Kooperationen zwischen Kommunikationswissenschaft und Informatik gut gestaltet."
+    authors: ["K. Kleinen-von Königslöw", "C. Biemann"]
+    year: 2022
+    venue: "Aviso - Informationsdienst der Deutschen Gesellschaft für Publizistik- und Kommunikationswissenschaft 2022(2):8-9"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2022-kleinenbiemann-aviso.pdf"
+
+  - title: "Challenges of Amharic Hate Speech Data Annotation Using Yandex Toloka Crowdsourcing Platform"
+    authors: ["A.A. Ayele", "T.D. Belay", "S.M. Yimam", "S. Dinter", "T.T. Asfaw", "C. Biemann"]
+    year: 2022
+    venue: "The Sixth Widening Natural Language Processing Workshop (WiNLP 2022) in conjunction with EMNLP 2022, Abu Dhabi, UAE"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2022-ayeleetal-winlp20222.pdf"
+
+  - title: "The 5Js in Ethiopia: Amharic Hate Speech Data Annotation Using Toloka Crowdsourcing Platform"
+    authors: ["A.A. Ayele", "T.D. Belay", "T.T. Asfaw", "S. Dinter", "S.M. Yimam", "C. Biemann"]
+    year: 2022
+    venue: "International Conference on Information and Communication Technology for Development for Africa (ICT4DA 2022), Bahir Dar"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2022-ayeleetal-ict4d20222.pdf"
+
+  - title: "Language over Labels: Contrastive Language Supervision Exceeds Purely Label-Supervised Classification Performance on Chest X-Rays"
+    authors: ["A. Wiehe", "F. Schneider", "S. Blank", "X. Wang", "H. Zorn", "C. Biemann"]
+    year: 2022
+    venue: "Proc. AACL SRW 2022, Taiwan"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/wieheetal2022.pdf"
+
+  - title: "Measuring Faithfulness of Abstractive Summaries"
+    authors: ["T. Fischer", "S. Remus", "C. Biemann"]
+    year: 2022
+    venue: "Proceedings of the 18th Conference on Natural Language Processing (KONVENS 2022), pages 63-73, Potsdam, Germany"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2022-fischeretal-konvens.pdf"
+
+  - title: "Improved Open Source Automatic Subtitling for Lecture Videos"
+    authors: ["R. Geislinger", "B. Milde", "C. Biemann"]
+    year: 2022
+    venue: "Proceedings of the 18th Conference on Natural Language Processing (KONVENS 2022), pages 98–103, Potsdam, Germany"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2022-geislingeretal-konvens.pdf"
+
+  - title: "More Like This: Semantic Retrieval with Linguistic Information"
+    authors: ["S. Remus", "G. Wiedemann", "S. Anwar", "F. Petersen-Frey", "S. M. Yimam", "C. Biemann"]
+    year: 2022
+    venue: "Proceedings of the 18th Conference on Natural Language Processing (KONVENS 2022), pages 156–166, Potsdam, Germany"
+    url: "https://aclanthology.org/2022.konvens-1.19.pdf"
+
+  - title: "Language Models Explain Word Reading Times Better Than Empirical Predictability"
+    authors: ["M.J. Hofmann", "S. Remus", "C. Biemann", "R. Radach", "L. Kuchinke"]
+    year: 2022
+    venue: "Frontiers in Artificial Intelligence 2022(4):730570"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2022-hofmannetal-frai.pdf"
+
+  - title: "CWITR: A Corpus for Automatic Complex Word Identification in Turkish Texts"
+    authors: ["B. Ilgen", "C. Biemann"]
+    year: 2022
+    venue: "Proc. International Conference on Natural Language Processing and Information Retrieval (NLPIR 2022), Bangkok, Thailand"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2022-ilgen-nlpir.pdf"
+
+  - title: "Measuring Gender Bias in German Language Generation"
+    authors: ["A. Kraft", "H.P. Zorn", "P. Fecht", "J. Simon", "C. Biemann", "R. Usbeck"]
+    year: 2022
+    venue: "Proc. INFORMATIK 2022, Bonn, Germany"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2022-kraftetal-informatik.pdf"
+
+  - title: "Wissensrohstoff Text. Eine Einführung in das Text Mining"
+    authors: ["C. Biemann", "G. Heyer", "U. Quasthoff"]
+    year: 2022
+    venue: "Springer Vieweg"
+    url: "https://link.springer.com/book/10.1007/978-3-658-35969-0"
+
+  - title: "D-WISE Tool Suite for the Sociology of Knowledge Approach to Discourse"
+    authors: ["G. Koch", "C. Biemann", "I. Eiser", "T. Fischer", "F. Schneider", "T. Stumpf", "A.T. García"]
+    year: 2022
+    venue: "Proc. Culture and Computing. HCII 2022. Lecture Notes in Computer Science, vol 13324, Springer, Cham"
+    url: "https://doi.org/10.1007/978-3-031-05434-1_5"
+
+  - title: "Question Answering Classification for Amharic Social Media Community Based Questions"
+    authors: ["T. D. Belay", "S. M. Yimam", "A. A. Ayele", "C. Biemann"]
+    year: 2022
+    venue: "The 1st Annual Meeting of the ELRA/ISCA Special Interest Group on Under-Resourced Languages (SIGUL 2022), Marseille, France"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2022-belayetal-sigullrec2022.pdf"
+
+  - title: "Elvis vs. M. Jackson: Who has More Albums? Classification and Identification of Elements in Comparative Question"
+    authors: ["M. Beloucif", "S.M. Yimam", "S. Stahlhacke", "C. Biemann"]
+    year: 2022
+    venue: "In the 2022 International Conference on Language Resources and Evaluation (LREC 2022), Marseille, France"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2022-beloucifetal-lrec2022.pdf"
+
+  - title: "Classification of German Jungian Extraversion and Introversion Texts with Assessment of Changes during the COVID-19 Pandemic"
+    authors: ["D. Johannßen", "C. Biemann", "D. Scheffer"]
+    year: 2022
+    venue: "Proceedings of the LREC22 workshop on Resources and Processing of linguistic, para-linguistic and extra-linguistic Data from people with various forms of cognitive / psychiatric / developmental impairments (RaPID-4)"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2022-johannssen-biemann-scheffer-rapid4.pdf"
+
+  - title: "Modern Baselines for SPARQL Semantic Parsing"
+    authors: ["D. Banerjee", "P. A. Nair", "J. N. Kaur", "R. Usbeck", "C. Biemann"]
+    year: 2022
+    venue: "Proceedings of The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’22)"
+    url: "https://arxiv.org/abs/2204.12793"
+
+  - title: "Golden Retriever: A Real-Time Multi-Modal Text-Image Retrieval System with the Ability to Focus"
+    authors: ["F. Schneider", "C. Biemann"]
+    year: 2022
+    venue: "Proceedings of The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’22)"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2022-schneider-biemann-sigir22.pdf"
+
+  - title: "Neural entity linking: A survey of models based on deep learning"
+    authors: ["Ö. Sevgili", "A. Shelmanov", "M. Arkhipov", "A. Panchenko", "C. Biemann"]
+    year: 2022
+    venue: "Semantic Web journal, vol. 13, no. 3, pp. 527-570, IOS Press (2022)"
+    url: "https://content.iospress.com/articles/semantic-web/sw222986"
+
+  - title: "Dataset of Student Solutions to Algorithm and Data Structure Programming Assignments"
+    authors: ["F. Petersen-Frey", "M. Soll", "L. Kobras", "M. Johannsen", "P. Kling", "C. Biemann"]
+    year: 2022
+    venue: "Proceedings of the 2022 Language Resource and Evaluation Conference (LREC), Marseille, France"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2022-petersenfreyetal-lrec.pdf"
+
+  - title: "MOTIF: Contextualized Images for Complex Words to Improve Human Reading"
+    authors: ["X. Wang", "F. Schneider", "Ö. Alacam", "P. Chaudhury", "C. Biemann"]
+    year: 2022
+    venue: "Proceedings of the 2022 Language Resource and Evaluation Conference (LREC), Marseille, France"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2022-wangetal-lrec.pdf"
+
+  - title: "Using Distributional Thesaurus To Enhance Transformer-based Contextualized Representations for Low Resource Languages"
+    authors: ["G. Venkatesh", "A. Jana", "S. Remus", "Ö. Sevgili", "G. Srinivasaraghavan", "C. Biemann"]
+    year: 2022
+    venue: "Proceedings of the 37th ACM/SIGAPP Symposium On Applied Computing (SAC)"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/sac.pdf#sac"
+
+  - title: "Hypernymy Detection for Low-Resource Languages: A Study for Hindi, Bengali, and Amharic"
+    authors: ["A. Jana", "G. Venkatesh", "S. M. Yimam", "C. Biemann"]
+    year: 2022
+    venue: "ACM Transactions on Asian and Low-Resource Language Information Processing"
+    url: "https://dl.acm.org/doi/pdf/10.1145/3490389"
+    
+    
+  - title: "From Narrativity to Relevance - A Computational Approach Based on Events"
+    authors: ["E. Gius", "H. Hatzel", "H. Stiemer", "C. Biemann"]
+    year: 2023
+    venue: "IGEL, Monopoli, Italy"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-gius-et-al-igel.pdf"
+
+  - title: "IDA - Incel Data Archive: a multimodal comparable corpus for exploring extremist dynamics in online interaction"
+    authors: ["S. Anastasi", "T. Fischer", "F. Schneider", "C. Biemann"]
+    year: 2023
+    venue: "Proceedings of the 10th International Conference on CMC and Social Media Corpora for the Humanities, University of Mannheim, Germany"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-anastasietal-cmc.pdf"
+
+  - title: "Predicting Terms in IS-A Relations with Pre-trained Transformers"
+    authors: ["I. Nikishina", "P. Chernomorchenko", "A. Demidova", "A. Panchenko", "C. Biemann"]
+    year: 2023
+    venue: "Proceedings of the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics, Bali, Indonesia"
+    url: "http://www.afnlp.org/conferences/ijcnlp2023/proceedings/main-findings/cdrom/pdf/2023.findings-ijcnlp.12.pdf"
+
+  - title: "RuCAM: Comparative Argumentative Machine for the Russian Language"
+    authors: ["M. Maslova", "S. Rebrikov", "A. Artsishevski", "S. Zaczek", "C. Biemann", "I. Nikishina"]
+    year: 2023
+    venue: "Proceedings of the 11th International Conference on Analysis of Images, Social Networks and Texts (AIST 2023), Yerevan, Armenia"
+    url: "publishing in process"
+
+  - title: "Text augmentation for semantic frame induction and parsing"
+    authors: ["S. Anwar", "A. Shelmanov", "N. Arefyev", "A. Panchenko", "C. Biemann"]
+    year: 2023
+    venue: "Language Resources & Evaluation"
+    url: "https://link.springer.com/article/10.1007/s10579-023-09679-8"
+
+  - title: "Unsupervised Ultra-Fine Entity Typing with Distributionally Induced Word Senses"
+    authors: ["Ö. Sevgili", "S. Remus", "A. Jana", "A. Panchenko", "C. Biemann"]
+    year: 2023
+    venue: "Proceedings of the 11th International Conference on Analysis of Images, Social Networks and Texts (AIST), pp. 1--15, Yerevan, Armenia"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-sevgilietal-ufet-aist.pdf"
+
+  - title: "Cross-Modal Impact of Recent Word Encountering Experience"
+    authors: ["J. Liu", "J. Gu", "C. Feng", "W. Shi", "C. Biemann", "X. Li"]
+    year: 2023
+    venue: "Scientific Studies of Reading"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-liuetal-jscisturead.pdf"
+
+  - title: "Using Wikidata for Enhancing Compositionality in Pre-trained Language Models"
+    authors: ["M. Beloucif", "M. Bansal", "C. Biemann"]
+    year: 2023
+    venue: "Proceedings of Recent Advances in Natural Language Processing, pages 170–178, Varna, Bulgaria"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-beloucifetal-ranlp.pdf"
+
+  - title: "Multi-Modal Learning Application - Support Language Learners with NLP Techniques and Eye-Tracking"
+    authors: ["R. Geislinger", "A. E. Pourasad", "D. Gül", "D. Djahangir", "S. M. Yimam", "S. Remus", "C. Biemann"]
+    year: 2023
+    venue: "Proceedings of the Linguistic Insights from and for Multimodal Language Processing (LIMO) Workshop co-located with the 19th Conference on Natural Language Processing (KONVENS 2023), pp. 1--6, Ingolstadt, Germany"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-geislingeretal-limo-eyetracking.pdf"
+
+  - title: "From Qualitative to Quantitative Research: Semi-Automatic Annotation Scaling in the Digital Humanities"
+    authors: ["F. Petersen-Frey", "T. Fischer", "F. Schneider", "I. Eiser", "G. Koch", "C. Biemann"]
+    year: 2023
+    venue: "KONVENS 2023 Konferenz zur Verarbeitung natürlicher Sprache/Conference on Natural Language Processing, Ingolstadt, Germany"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-petersenfreyetal-konvens-dwise.pdf"
+
+  - title: "Das Konzept des House of Computing and Data Science als Blaupause zur Digitalisierung der Forschung. Aktuelle Entwicklungen und Perspektiven (an Hochschulen) im Bereich Data Science"
+    authors: ["C. Biemann", "T. Böhmann", "S. Gerling", "J. Louis", "M. Semmann"]
+    year: 2023
+    venue: "Berlin, Germany"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-semmannetal-dsworkshop.pdf"
+
+  - title: "DBLPLink: An Entity Linker for the DBLP Scholarly Knowledge Graph"
+    authors: ["D. Banerjee", "Arefa", "R. Usbeck", "C. Biemann"]
+    year: 2023
+    venue: "22nd International Semantic Web Conference, Athens, Greece"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-banerjee-iswc2023-dblplinkdemo.pdf"
+
+  - title: "Exploring Amharic Hate Speech Data Collection and Classification Approaches"
+    authors: ["A.A. Ayele", "S.M. Yimam", "T.D. Belay", "T. Asfaw", "C. Biemann"]
+    year: 2023
+    venue: "the 14th Conference RECENT ADVANCES IN NATURAL LANGUAGE PROCESSING, Varna, Bulgaria"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-ayele-et-al-hate-ranlp.pdf"
+
+  - title: "Multilingual Racial Hate Speech Detection Using Transfer Learning"
+    authors: ["A.A. Ayele", "S. Dinter", "S.M. Yimam", "C. Biemann"]
+    year: 2023
+    venue: "the 14th Conference RECENT ADVANCES IN NATURAL LANGUAGE PROCESSING, Varna, Bulgaria"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-ayele-et-al-hate-ranlp-racial.pdf"
+
+  - title: "Using Self-Supervised Dual Constraint Contrastive Learning for Cross-modal Retrieval - European Conference on Artificial Intelligence 2023"
+    authors: ["X. Wang", "X. Li", "L. Ding", "S. Zhao", "C. Biemann"]
+    year: 2023
+    venue: "European Conference on Artificial Intelligence 2023"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-xintong-et-at-ecai.pdf"
+
+  - title: "Dimensions of Similarity: Towards Interpretable Dimension-Based Text Similarity - European Conference on Artificial Intelligence 2023"
+    authors: ["H. Hatzel", "F. Petersen-Frey", "T. Fischer", "C. Biemann"]
+    year: 2023
+    venue: "European Conference on Artificial Intelligence 2023"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-hatzel-et-al-ecai.pdf"
+
+  - title: "Machine learning in computational literary studies"
+    authors: ["H. Hatzel", "H. Stiemer", "C. Biemann", "E. Gius"]
+    year: 2023
+    venue: "it - Information Technology"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-hatzel-etal-itit.pdf"
+
+  - title: "Narrative Cloze as a Training Objective: Towards Modeling Stories Using Narrative Chain Embeddings"
+    authors: ["H. O. Hatzel", "C. Biemann"]
+    year: 2023
+    venue: "Proceedings of the 5th Workshop on Narrative Understanding, Toronto, Canada. Association for Computational Linguistics"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-hatzel-wnu.pdf"
+
+  - title: "The D-WISE Tool Suite: Multi-Modal Machine-Learning-Powered Tools Supporting and Enhancing Digital Discourse Analysis."
+    authors: ["Florian Schneider", "Tim Fischer", "Fynn Petersen-Frey", "Isabel Eiser", "Gertraud Koch", "Chris Biemann"]
+    year: 2023
+    venue: "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023), Toronto, Canada."
+    url: "https://aclanthology.org/2023.acl-demo.31.pdf"
+
+  - title: "The Role of Output Vocabulary in T2T LMs for SPARQL Semantic Parsing"
+    authors: ["D. Banerjee", "P. A. Nair", "R. Usbeck", "C. Biemann"]
+    year: 2023
+    venue: "ACL 2023 Findings Short Paper"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-banerjee-acl2023-findings.pdf"
+
+  - title: "LT at SemEval-2023 Task 1: Effective Zero-Shot Visual Word Sense Disambiguation Approaches using External Knowledge Sources"
+    authors: ["F. Schneider", "C. Biemann"]
+    year: 2023
+    venue: "Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval-2023), Toronto, Canada. Association for Computational Linguistics (ACL)."
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-schneider-et-al-semeval-task-1-vwsd.pdf"
+
+  - title: "Insight to mechanism of semantic processing of lexicalized and novel compound words: an eye movement study"
+    authors: ["J. Wang", "J. Yang", "C. Biemann", "X. Li"]
+    year: 2023
+    venue: "Journal of Experimental Psychology: learning, memory and cognition (accepted March 2023)"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-wangetal-jep-preprint.pdf"
+
+  - title: "DBLP-QuAD: A Question Answering Dataset over the DBLP Scholarly Knowledge Graph"
+    authors: ["D. Banerjee", "S. Awale", "R. Usbeck", "C. Biemann"]
+    year: 2023
+    venue: "The 13th International Workshop on Bibliometric-enhanced Information Retrieval @ ECIR 2023, Dublin, Ireland"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-banerjee-bir-ecir-2023-dblpquad.pdf"
+
+  - title: "GETT-QA: Graph Embedding based T2T Transformer for Knowledge Graph Question Answering"
+    authors: ["D. Banerjee", "P. A. Nair", "R. Usbeck", "C. Biemann"]
+    year: 2023
+    venue: "The Extended Semantic Web Conference, (ESWC 2023), Hersonissos, Greece"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-banerjee-eswc2023.pdf"
+
+  - title: "A system for Human-AI collaboration"
+    authors: ["D. Banerjee", "M. Poser", "C. Wiethof", "V. S. Subramanian", "R. Paucar", "E. Bittner", "C. Biemann"]
+    year: 2023
+    venue: "The AAAI 2023 Workshop on Representation Learning for Responsible Human-Centric AI, Washington DC, USA"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-banerjee-r2hcai.pdf"
+
+  - title: "CodeAnno: Extending WebAnno with Hierarchical Document Level Annotation and Automation"
+    authors: ["F. Schneider", "S. M. Yimam", "F. Petersen-Frey", "C. Biemann", "G. von Nordheim", "K. Kleinen-von Königslöw"]
+    year: 2023
+    venue: "The 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2023), System Demonstrations Track, Dubrovnik, Croatia"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-schneider-et-al-codeanno.pdf"
+
+  - title: "ARDIAS: AI-Enhanced Research Management, Discovery, and Advisory System"
+    authors: ["D. Banerjee", "S. M. Yimam", "S. Awale", "C. Biemann"]
+    year: 2023
+    venue: "The AAAI-23 Workshop on Scientific Document Understanding at the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-23), Washington, DC, USA."
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-banerjeeetal-ardias-sdu-aaai2023.pdf"
+
+  - title: "Handlung und Narrativität - Zum Verhältnis von Handlungszusammenfassungen und relevanten Ereignissen"
+    authors: ["H. O. Hatzel", "E. Gius", "H. Stiemer", "C. Biemann"]
+    year: 2023
+    venue: "Abstracts of DHd 2023: Open Humanities, Open Culture, Luxemburg/Trier."
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-hatzel-dhd-narrativitaet.pdf"
+
+  - title: "D-WISE - Digitale Wissensoziologische Diskursanalyse"
+    authors: ["T. Fischer", "I. Eiser", "F. Schneider", "F. Petersen-Frey", "C. Biemann", "G. Koch"]
+    year: 2023
+    venue: "Abstracts of DHd 2023: Open Humanities, Open Culture, Luxemburg/Trier."
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-fischeretal-dhd-dwise.pdf"
+
+  - title: "Open Science Prinzipien und interdisziplinäre Kollaboration in D- WISE: Zwischen Hermeneutik und Digitaler Methode in der Diskursanalyse"
+    authors: ["I. Eiser", "T. Fischer", "F. Schneider", "G. Koch", "C. Biemann", "F. Petersen-Frey"]
+    year: 2023
+    venue: "Abstracts of DHd 2023: Open Humanities, Open Culture, Luxemburg/Trier."
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-eisneretal-dhd-dwise.pdf"
+
+  - title: "Tell me again! A Large-Scale Dataset of Multiple Summaries for the Same Story"
+    authors: ["H. Hatzel", "C. Biemann"]
+    year: 2024
+    venue: "LREC 2024, Turino, Italy"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2024-hatzel-et-al-lrec.pdf"
+
+  - title: "Coreference in Long Documents using Hierarchical Entity Merging"
+    authors: ["T. Gupta", "H. Hatzel", "C. Biemann"]
+    year: 2024
+    venue: "LaTeCH-CLfL 2024, St. Julians, Malta"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2024-gupta-et-al-sighum.pdf"
+
+  - title: "Narrativität visualisieren - Eine Rezeptionsstudie zur Evaluation der heuristischen Qualität von Narrativitätsgraphen"
+    authors: ["H. Hatzel", "H. Stiemer", "C. Biemann", "E. Gius"]
+    year: 2024
+    venue: "Abstracts of DHd 2024, Passau, Germany"
+    url: "https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2024-hatzel-et-al-dhd.pdf"
+
+
+
 ---
 

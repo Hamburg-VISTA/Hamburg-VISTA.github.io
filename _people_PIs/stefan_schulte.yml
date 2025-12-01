@@ -2,7 +2,8 @@
 title: Prof.
 firstname: Stefan
 lastname: Schulte
-affiliation: TUHH
+affiliation: 
+  - TUHH
 photo: /assets/images/stefan-schulte.jpg
 link: https://www.tuhh.de/ide/homepage/people/stefan-schulte
 sorting: None

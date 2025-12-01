@@ -2,7 +2,8 @@
 title: Prof.
 firstname: Gary
 lastname: Schaal
-affiliation: HSU
+affiliation: 
+  - HSU
 photo: /assets/images/gary-schaal.jpg
 link: https://www.hsu-hh.de/politiktheorie/prof-dr-gary-s-schaal
 sorting: None

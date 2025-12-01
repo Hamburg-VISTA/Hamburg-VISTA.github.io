@@ -2,7 +2,8 @@
 title: Prof.
 firstname: Nihat
 lastname: Ay
-affiliation: TUHH
+affiliation: 
+  - TUHH
 photo: /assets/images/nihat-ay.jpg
 link: https://www.tuhh.de/dsf/team
 sorting: Board_Other

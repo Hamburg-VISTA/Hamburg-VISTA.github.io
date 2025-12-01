@@ -2,7 +2,8 @@
 title: Dr.
 firstname: Frank
 lastname: Gaede
-affiliation: DESY
+affiliation: 
+  - DESY
 photo: /assets/images/frank-gaede.jpg
 link: https://ftx.desy.de/
 sorting: None

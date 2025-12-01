@@ -2,7 +2,8 @@
 title: Prof.
 firstname: Sarah
 lastname: Heim
-affiliation: DESY
+affiliation: 
+  - DESY
 photo: /assets/images/sarah-heim.jpg
 link: https://atlas.desy.de/
 sorting: None

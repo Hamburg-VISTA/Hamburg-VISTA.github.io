@@ -2,9 +2,113 @@
 title: Prof.
 firstname: Oliver
 lastname: Niggemann
-affiliation: HSU
+affiliation: 
+  - HSU
 photo: /assets/images/oliver-niggemann.jpg
 link: https://www.hsu-hh.de/imb/en/staff
 sorting: Board_Other
+
+publications:
+  - title: "Learning physically meaningful representations of energy systems with variational autoencoders"
+    authors: ["S. Multaheb", "F. Bauer", "P. Bretschneider", "O. Niggemann"]
+    year: 2022
+    venue: "27th IEEE International Conference on Emerging Technologies and Factory Automation, ETFA 2022, Stuttgart, Germany, September 6 – 9"
+    url: "https://www.hsu-hh.de/imb/en/"
+
+  - title: "Using domain-knowledge to improve machine learning: A survey of recent advances"
+    authors: ["T. Rensmeyer", "S. Multaheb", "J. Putzke", "B. Zimmering", "O. Niggemann"]
+    year: 2022
+    venue: "atp Magazin 8/2022, Vulkan Verlag"
+    url: "https://www.hsu-hh.de/imb/en/"
+
+  - title: "Improving remote material classification ability with thermal imagery"
+    authors: ["W. Großmann", "H. Horn", "O. Niggemann"]
+    year: 2022
+    venue: "Sci Rep 12, Article 17288"
+    url: "https://doi.org/10.1038/s41598-022-21588-4"
+
+  - title: "An AI benchmark for Diagnosis, Reconfiguration & Planning"
+    authors: ["Jonas Ehrhardt", "Malte Ramonat", "René Heesch", "Kaja Balzereit", "Alexander Diedrich", "Oliver Niggemann"]
+    year: 2022
+    venue: "27th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA2022)"
+    url: "https://www.hsu-hh.de/imb/en/"
+
+  - title: "On Residual-based Diagnosis of Physical Systems"
+    authors: ["Alexander Dietrich", "Oliver Niggemann"]
+    year: 2022
+    venue: "Elsevier Engineering Applications of Artificial Intelligence"
+    url: "https://www.sciencedirect.com/science/article/pii/S0952197621004450"
+
+  - title: "KIAAA: An AI Assistant for Teaching Programming in the Field of Automation"
+    authors: ["S. Eilermann", "L. Wehmeier", "O. Niggemann", "A. Deuter"]
+    year: 2023
+    venue: "IEEE 21st International Conference on Industrial Informatics (INDIN), Lemgo, Germany, pp. 1-7"
+    url: "https://ieeexplore.ieee.org/abstract/document/10218157"
+
+  - title: "Integrating Machine Learning into an SMT-based Planning Approach for Production Planning in Cyber-Physical Production Systems"
+    authors: ["R. Heesch", "J. Ehrhardt", "O. Niggemann"]
+    year: 2023
+    venue: "International Workshop on Hybrid Models for Coupling Deductive and Inductive Reasoning (HYDRA), ECAI 2023 – European Conference on Artificial Intelligence, Krakau, Poland"
+    url: "https://www.hsu-hh.de/imb/en/"
+
+  - title: "Learning Process Steps as Dynamical Systems for a Sub-Symbolic Approach of Process Planning in Cyber-Physical Production Systems"
+    authors: ["J. Ehrhardt", "R. Heesch", "O. Niggemann"]
+    year: 2023
+    venue: "International Workshop on Hybrid Models for Coupling Deductive and Inductive Reasoning (HYDRA), ECAI 2023 – European Conference on Artificial Intelligence, Krakau, Poland"
+    url: "https://www.hsu-hh.de/imb/en/"
+
+  - title: "Robustness and Generalization Performance of Deep Learning Models on Cyber-Physical Systems: A Comparative Study"
+    authors: ["A. Windmann", "H. Steude", "O. Niggemann"]
+    year: 2023
+    venue: "Workshop of Artificial Intelligence for Time Series Analysis (AI4TS), IJCAI 2023 – International Joint Conference on Artificial Intelligence, Macao, China"
+    url: "https://www.hsu-hh.de/imb/en/"
+
+  - title: "Using Reverse Reinforcement Learning for Assembly Tasks"
+    authors: ["N. Widulle", "O. Niggemann"]
+    year: 2023
+    venue: "PRL Workshop – Bridging the Gap Between AI Planning and Reinforcement Learning, IJCAI 2023 – International Joint Conference on Artificial Intelligence, Macao, China"
+    url: "https://www.hsu-hh.de/imb/en/"
+
+  - title: "Using FliPSi to Generate Data for Machine Learning Algorithms"
+    authors: ["A. Liebert", "C. Wittke", "J. Ehrhardt", "R. Jaufmann", "N. Widulle", "S. Eilermann", "M. Krantz", "O. Niggemann"]
+    year: 2023
+    venue: "IEEE ETFA 2023 – IEEE International Conference on Emerging Technologies and Factory Automation, Siana, Romania"
+    url: "https://www.hsu-hh.de/imb/en/"
+
+  - title: "Machine Learning for Cyber-Physical Systems"
+    authors: ["O. Niggemann", "B. Zimmering", "H. Steude", "J.L. Augustin", "A. Windmann", "S. Multaheb"]
+    year: 2023
+    venue: "In: Vogel-Heuser, B.; Wimmer, M. (eds) Digital Transformation. Springer Vieweg, Berlin, Heidelberg"
+    url: "https://doi.org/10.1007/978-3-662-65004-2_17"
+
+  - title: "Plan-Based Derivation of General Functional Structures in Product Design"
+    authors: ["P. Rosenthal", "N. Demke", "F. Mantwill", "O. Niggemann"]
+    year: 2024
+    venue: "7th IEEE International Conference on Industrial Cyber-Physical Systems (ICPS), St. Louis, USA"
+    url: "https://www.hsu-hh.de/imb/en/"
+
+  - title: "Learning System Descriptions for Cyber-Physical Systems"
+    authors: ["A. Diedrich", "L. Moddemann", "O. Niggemann"]
+    year: 2024
+    venue: "12th IFAC Symposium on Fault Detection, Supervision and Safety for Technical Processes (SAFEPROCESS), Ferrara, Italy"
+    url: "https://www.hsu-hh.de/imb/en/"
+
+  - title: "Discret2Di – Deep Learning based Discretization for Model-based Diagnosis"
+    authors: ["L. Moddemann", "H. Steude", "A. Diedrich", "O. Niggemann"]
+    year: 2024
+    venue: "12th IFAC Symposium on Fault Detection, Supervision and Safety for Technical Processes (SAFEPROCESS), Ferrara, Italy"
+    url: "https://www.hsu-hh.de/imb/en/"
+
+  - title: "Diagnosis driven Anomaly Detection for Cyber-Physical Systems"
+    authors: ["H. Steude", "L. Moddemann", "A. Diedrich", "J. Ehrhardt", "O. Niggemann"]
+    year: 2024
+    venue: "12th IFAC Symposium on Fault Detection, Supervision and Safety for Technical Processes (SAFEPROCESS), Ferrara, Italy"
+    url: "https://www.hsu-hh.de/imb/en/"
+
+  - title: "Bayesian Transfer Learning of Neural Network-Based Interatomic Force Models"
+    authors: ["T. Rensmeyer", "W. Großmann", "D. Kramer", "O. Niggemann"]
+    year: 2024
+    venue: "The 38th Annual AAAI Conference on Artificial Intelligence | Workshop on AI to Accelerate Science and Engineering, Vancouver, Canada"
+    url: "https://www.hsu-hh.de/imb/en/"
 ---
 

@@ -2,9 +2,258 @@
 title: Prof.
 firstname: Gregor
 lastname: Kasieczka
-affiliation: UHH
+affiliation: 
+  - UHH
 photo: /assets/images/gregor-kasieczka.jpg
 link: https://www.physik.uni-hamburg.de/en/iexp/gruppe-kasieczka/personen.html
 sorting: Board_Chair
----
 
+
+publications:  
+  - title: "Morphological Classification of Radio Galaxies with wGAN-supported Augmentation"
+    authors: ["L. Rustige", "J. Kummer", "F. Griese", "K. Borras", "M. Brüggen", "P. Connor", "F. Gaede", "G. Kasieczka", "T. Knopp", "P. Schleper"]
+    year: 2022
+    venue: "RAS Techniques and Instruments, Volume 2, Issue 1, January 2023, Pages 264–277"
+    url: "https://doi.org/10.1093/rasti/rzad016"
+
+  - title: "Feature Selection with Distance Correlation"
+    authors: ["R. Das", "G. Kasieczka", "D. Shih"]
+    year: 2022
+    venue: "arxiv"
+    url: "https://arxiv.org/abs/2212.00046"
+
+  - title: "Resonant anomaly detection without background sculpting"
+    authors: ["A. Hallin", "G. Kasieczka", "T. Quadfasel", "D. Shih", "M. Sommerhalder"]
+    year: 2022
+    venue: "Phys. Rev. D 107, 114012"
+    url: "https://doi.org/10.1103/PhysRevD.107.114012"
+
+  - title: "Anomaly Detection under Coordinate Transformations"
+    authors: ["G. Kasieczka", "R. Mastandrea", "V. Mikuni", "B. Nachman", "M. Pettee", "D. Shih"]
+    year: 2022
+    venue: "Phys. Rev. D 107, 015009"
+    url: "https://doi.org/10.1103/PhysRevD.107.015009"
+
+  - title: "Data Science and Machine Learning in Education"
+    authors: ["G. Benelli", "G. Chachamis", "T. Chen", "J. Duarte", "M. Feickert", "M. Graham", "L. Gray", "D. Hackett", "P. Harris", "S.-C. Hsu", "G. Kasieczka", "E. Khoda", "M. Komm", "M. Liu", "M. Neubauer", "S. Norberg", "A. Perloff", "M. Rieger", "A. Roy", "C. Savard", "K. Terao", "S. Thais", "J.-R. Vlimant"]
+    year: 2022
+    venue: "arxiv"
+    url: "https://arxiv.org/abs/2207.09060"
+
+  - title: "Radio Galaxy Classification with wGAN-Supported Augmentation"
+    authors: ["K. Borras", "M. Brüggen", "P. Connor", "F. Gaede", "F. Griese", "G. Kasieczka", "J. Kummer", "L. Rustige", "P. Schleper"]
+    year: 2022
+    venue: "INFORMATIK 2022 Workshops, P-326 469-478 (2022), Lecture Notes in Informatics (LNI)"
+    url: "https://doi.org/10.18420/inf2022_38"
+
+  - title: "New directions for surrogate models and differentiable programming for High Energy Physics detector simulation"
+    authors: ["A. Adelmann", "W. Hopkins", "E. Kourlitis", "M. Kagan", "G. Kasieczka", "C. Krause", "V. Mikuni", "B. Nachman", "K. Pedro", "D. Shih", "D. Winklehner"]
+    year: 2022
+    venue: "arxiv"
+    url: "https://arxiv.org/abs/2203.08806"
+
+  - title: "Machine Learning and LHC Event Generation"
+    authors: ["A. Butter (ed)", "T. Plehn (ed)", "S. Schumann (ed)", "S. Badger", "S. Caron", "K. Cranmer", "F. A. Di Bello", "E. Dreyer", "S. Forte", "S. Ganguly", "D. Gonçalves", "E. Gross", "T. Heimel", "G. Heinrich", "L. Heinrich", "A. Held", "S. Höche", "J. N. Howard", "P. Ilten", "J. Isaacson", "T. Janßen", "S. Jones", "M. Kado", "M. Kagan", "G. Kasieczka", "F. Kling", "S. Kraml", "C. Krause", "F. Krauss", "K. Kröninger", "R. K. Barman", "M. Luchmann", "V. Magerya", "D. Maitre", "B. Malaescu", "F. Maltoni", "T. Martini", "O. Mattelaer", "B. Nachman", "S. Pitz", "J. Rojo", "M. Schwartz", "D. Shih", "F. Siegert", "R. Stegeman", "B. Stienen", "J. Thaler", "R. Verheyen", "D. Whiteson", "R. Winterhalder", "J. Zupan"]
+    year: 2022
+    venue: "SciPost Phys. 14, 079 (2023)"
+    url: "https://doi.org/10.21468/SciPostPhys.14.4.079"
+
+  - title: "Ephemeral Learning - Augmenting Triggers with Online-Trained Normalizing Flows"
+    authors: ["A. Butter", "S. Diefenbacher", "G. Kasieczka", "B. Nachman", "T. Plehn", "D. Shih", "R. Winterhalder"]
+    year: 2022
+    venue: "SciPost Phys. 13, 087 (2022)"
+    url: "https://doi.org/10.21468/SciPostPhys.13.4.087"
+
+  - title: "Calomplification -- The Power of Generative Calorimeter Models"
+    authors: ["S. Bieringer", "S. Diefenbacher", "E. Eren", "F. Gaede", "D. Hundhausen", "G. Kasieczka", "B. Nachman", "T. Plehn", "M. Trabs"]
+    year: 2022
+    venue: "JINST 17 P09028"
+    url: "https://doi.org/10.1088/1748-0221/17/09/P09028"
+    
+
+  - title: "Les Houches guide to reusable ML models in LHC analyses"
+    authors: ["J. Y. Araz", "A. Buckley", "G. Kasieczka", "J. Kieseler", "S. Kraml", "A. Kvellestad", "A. Lessa", "T. Procter", "A. Raklev", "H. Reyes-Gonzalez", "K. Rolbiecki", "S. Sekmen", "G. Unel"]
+    year: 2023
+    venue: "arxiv"
+    url: "https://arxiv.org/abs/2312.14575"
+
+  - title: "AdamMCMC: Combining Metropolis Adjusted Langevin with Momentum-based Optimization"
+    authors: ["S. Bieringer", "G. Kasieczka", "M. F. Steffen", "M. Trabs"]
+    year: 2023
+    venue: "arxiv"
+    url: "https://arxiv.org/abs/2312.14027"
+
+  - title: "Residual ANODE"
+    authors: ["R. Das", "G. Kasieczka", "D. Shih"]
+    year: 2023
+    venue: "arxiv"
+    url: "https://arxiv.org/abs/2312.11629"
+
+  - title: "Flow Matching Beyond Kinematics: Generating Jets with Particle-ID and Trajectory Displacement Information"
+    authors: ["J. Birk", "E. Buhmann", "C. Ewen", "G. Kasieczka", "D. Shih"]
+    year: 2023
+    venue: "arxiv"
+    url: "https://arxiv.org/abs/2312.00123"
+
+  - title: "Machine learning techniques for model-independent searches in dijet final states"
+    authors: ["P. Harris", "W. P. Mccormack", "S. E. Park", "T. Quadfasel", "M. Sommerhalder", "L. J. Moureaux", "G. Kasieczka", "O. Amram", "P. Maksimovic", "B. Maier", "M. Pierini", "K. A. Wozniak", "T. K. Aarrestad", "J. Ngadiuba", "I. Zoi", "S. K. Bright-Thonney", "D. Shih", "A. Bal"]
+    year: 2023
+    venue: "CERN document server (CDS)"
+    url: "https://cds.cern.ch/record/2881089?ln=en"
+
+  - title: "Full Phase Space Resonant Anomaly Detection"
+    authors: ["E. Buhmann", "C. Ewen", "G. Kasieczka", "V. Mikuni", "B. Nachman", "D. Shih"]
+    year: 2023
+    venue: "arxiv"
+    url: "https://arxiv.org/abs/2310.06897"
+
+  - title: "Statistical guarantees for stochastic Metropolis-Hastings"
+    authors: ["S. Bieringer", "G. Kasieczka", "M. F. Steffen", "M. Trabs"]
+    year: 2023
+    venue: "arxiv"
+    url: "https://arxiv.org/abs/2310.09335"
+
+  - title: "EPiC-ly Fast Particle Cloud Generation with Flow-Matching and Diffusion"
+    authors: ["E. Buhmann", "C. Ewen", "D. A. Faroughy", "T. Golling", "G. Kasieczka", "M. Leigh", "G. Quétant", "J. A. Raine", "D. Sengupta", "D. Shih"]
+    year: 2023
+    venue: "arxiv"
+    url: "https://arxiv.org/abs/2310.00049"
+
+  - title: "Back To The Roots: Tree-Based Algorithms for Weakly Supervised Anomaly Detection"
+    authors: ["T. Finke", "M. Hein", "G. Kasieczka", "M. Krämer", "A. Mück", "P. Prangchaikul", "T. Quadfasel", "D. Shih", "M. Sommerhalder"]
+    year: 2023
+    venue: "arxiv"
+    url: "https://arxiv.org/abs/2309.13111"
+
+  - title: "Combining Resonant and Tail-based Anomaly Detection"
+    authors: ["G. Bickendorf", "M. Drees", "G. Kasieczka", "C. Krause", "D. Shih"]
+    year: 2023
+    venue: "arxiv"
+    url: "https://arxiv.org/abs/2309.12918"
+
+  - title: "CaloClouds II: Ultra-Fast Geometry-Independent Highly-Granular Calorimeter Simulation"
+    authors: ["E. Buhmann", "F. Gaede", "G. Kasieczka", "A. Korol", "W. Korcari", "K. Krüger", "P. McKeown"]
+    year: 2023
+    venue: "arxiv"
+    url: "https://arxiv.org/abs/2309.05704"
+
+  - title: "The Interplay of Machine Learning-based Resonant Anomaly Detection Methods"
+    authors: ["T. Golling", "G. Kasieczka", "C. Krause", "R. Mastandrea", "B. Nachman", "J. A. Raine", "D. Sengupta", "D. Shih", "M. Sommerhalder"]
+    year: 2023
+    venue: "arxiv"
+    url: "https://arxiv.org/abs/2307.11157"
+
+  - title: "CaloClouds: Fast Geometry-Independent Highly-Granular Calorimeter Simulation"
+    authors: ["E. Buhmann", "S. Diefenbacher", "E. Eren", "F. Gaede", "G. Kasieczka", "A. Korol", "W. Korcari", "K. Krüger", "P. McKeown"]
+    year: 2023
+    venue: "JINST 18 P11025"
+    url: "https://iopscience.iop.org/article/10.1088/1748-0221/18/11/P11025"
+
+  - title: "New Angles on Fast Calorimeter Shower Simulation"
+    authors: ["S. Diefenbacher", "E. Eren", "F. Gaede", "G. Kasieczka", "A. Korol", "K. Krüger", "P. McKeown", "L. Rustige"]
+    year: 2023
+    venue: "Mach. Learn.: Sci. Technol. 4 035044"
+    url: "https://iopscience.iop.org/article/10.1088/2632-2153/acefa9"
+
+  - title: "L2LFlows: Generating High-Fidelity 3D Calorimeter Images"
+    authors: ["S. Diefenbacher", "E. Eren", "F. Gaede", "G. Kasieczka", "C. Krause", "I. Shekhzadeh", "D. Shih"]
+    year: 2023
+    venue: "JINST 18 P10017"
+    url: "https://iopscience.iop.org/article/10.1088/1748-0221/18/10/P10017"
+
+  - title: "EPiC-GAN: Equivariant Point Cloud Generation for Particle Jets"
+    authors: ["E. Buhmann", "G. Kasieczka", "J. Thaler"]
+    year: 2023
+    venue: "SciPostPhys. 15, 130"
+    url: "https://scipost.org/10.21468/SciPostPhys.15.4.130"  
+
+  - title: "OmniJet-α: The first cross-task foundation model for particle physics"
+    authors: ["J. Birk", "A. Hallin", "G. Kasieczka"]
+    year: 2024
+    venue: "Mach. Learn.: Sci. Technol. 5 035031 (2024)"
+    url: "https://doi.org/10.1088/2632-2153/ad66ad"
+
+  - title: "Software Compensation for Highly Granular Calorimeters using Machine Learning"
+    authors: ["The CALICE Collaboration"]
+    year: 2024
+    venue: "arxiv"
+    url: "https://arxiv.org/abs/2403.04632"
+
+  - title: "Classifier Surrogates: Sharing AI-based Searches with the World"
+    authors: ["S. Bieringer", "G. Kasieczka", "J. Kieseler", "M.Trabs"]
+    year: 2024
+    venue: "arxiv"
+    url: "https://arxiv.org/abs/2402.15558"
+
+  - title: "Sets are all you need: Ultrafast jet classification on FPGAs for HL-LHC"
+    authors: ["P. Odagiu", "Z. Que", "J. Duarte", "J. Haller", "G. Kasieczka", "A. Lobanov", "V. Loncar", "W. Luk", "J. Ngadiuba", "M. Pierini", "P. Rincke", "A. Seksaria", "S. Summers", "A. Sznajder", "A. Tapper", "T. K. Aarrestad"]
+    year: 2024
+    venue: "arxiv"
+    url: "https://arxiv.org/abs/2402.01876"
+    
+  - title: "Aspen Open Jets: Unlocking LHC Data for Foundation Models in Particle Physics"
+    authors: ["O. Amram", "L. Anzalone", "J. Birk", "D. Faroughy", "A. Hallin", "G. Kasieczka", "M. Krämer", "M. Pang", "H. Reyes-Gonzalez", "D. Shih"]
+    year: 2024
+    venue: "arxiv"
+    url: "https://arxiv.org/abs/2412.10504"
+
+  - title: "Learning Broken Symmetries with Approximate Invariance"
+    authors: ["S. Nabat", "A. Ghosh", "E. Witkowski", "G. Kasieczka", "D. Whiteson"]
+    year: 2024
+    venue: "arxiv"
+    url: "https://arxiv.org/abs/2412.18773"
+
+  - title: "Accurate and robust methods for direct background estimation in resonant anomaly detection"
+    authors: ["R. Das", "T. Finke", "M. Hein", "G. Kasieczka", "M. Krämer", "A. Mück", "D. Shih"]
+    year: 2024
+    venue: "arxiv"
+    url: "https://arxiv.org/abs/2411.00085"
+
+  - title: "CaloChallenge 2022: A Community Challenge for Fast Calorimeter Simulation"
+    authors: ["C. Krause", "M.F. Giannelli", "G. Kasieczka", "B. Nachman", "D. Salamani", "D. Shih", "A. Zaborowska", "et al."]
+    year: 2024
+    venue: "arxiv"
+    url: "https://arxiv.org/abs/2410.21611"
+
+  - title: "Calibrating Bayesian Generative Machine Learning for Bayesiamplification"
+    authors: ["S. Bieringer", "S. Diefenbacher", "G. Kasieczka", "M. Trabs"]
+    year: 2024
+    venue: "arxiv"
+    url: "https://arxiv.org/abs/2408.00838"
+
+  - title: "Convolutional L2LFlows: Generating Accurate Showers in Highly Granular Calorimeters Using Convolutional Normalizing Flows"
+    authors: ["T. Buss", "F. Gaede", "G. Kasieczka", "C. Krause", "D. Shih"]
+    year: 2024
+    venue: "arxiv"
+    url: "https://arxiv.org/abs/2405.20407"
+
+  - title: "Accelerating Resonance Searches via Signature-Oriented Pre-training"
+    authors: ["C. Li", "A. Agapitos", "J. Drews", "J. Duarte", "D. Fu", "L. Gao", "R. Kansal", "G. Kasieczka", "L. Moureaux", "H. Qu", "C. M. Suarez", "Q. Li"]
+    year: 2024
+    venue: "arxiv"
+    url: "https://arxiv.org/abs/2405.12972"
+
+  - title: "Complete Optimal Non-Resonant Anomaly Detection"
+    authors: ["G. Kasieczka", "J. A. Raine", "D. Shih", "A. Upadhyay"]
+    year: 2024
+    venue: "arxiv"
+    url: "https://arxiv.org/abs/2404.07258"
+    
+  - title: "Universal New Physics Latent Space"
+    authors: ["Hallin, A.", "Kasieczka, G.", "Kraml, S.", "Lessa, A.", "Moureaux, L.", "von Schwartz, T.", "Shih, D"]
+    year: 2025
+    venue: "Phys. Rev. D 111, 016006"
+    doi: https://doi.org/10.1103/PhysRevD.111.016006
+
+  - title: "OmniJet-αC: Learning point cloud calorimeter simulations using generative transformers"
+    authors: ["Birk, J.", "Gaede, F.", "Hallin, A.", "Kasieczka, G.", "Mozzanica, M.", "Rose, H."]
+    year: 2025
+    venue: "arxiv"
+    url: "https://arxiv.org/abs/2501.05534"
+
+  - title: "Large Physics Models: Towards a collaborative approach with Large Language Models and Foundation Models"
+    authors: ["Barman, K. G.", "Caron, S.", "Sullivan, E.", "de Regt, H.W.", "de Austri, R. R.", "Boon, M.", "Färber, M.", "Fröse, S.", "Hasibi, F.", "Ipp, A.", "Kapoor, R.", "Kasieczka, G.", "Kostić, D.", "Krämer, M.", "Golling, T.", "Lopez, L. G.", "Marco, J.", "Otten, S.", "Pawlowski, P.", "Vischia, P.", "Weber, E.", "Weniger, C."]
+    year: 2025
+    venue: "arxiv"
+    url: "https://arxiv.org/abs/2501.05382"
+---

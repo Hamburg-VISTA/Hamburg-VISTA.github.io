@@ -2,7 +2,8 @@
 title: Prof.
 firstname: Inken
 lastname: Wohlers
-affiliation: FZ-Borstel
+affiliation: 
+  - FZ-Borstel
 photo: /assets/images/inken-wohlers.jpg
 link: https://fz-borstel.de/en/research-at-the-fzb/science-and-technology/biomolecular-data-science-in-pneumology
 sorting: None

@@ -2,8 +2,28 @@
 title: Prof.
 firstname: Luisa
 lastname: Lucie-Smith
-affiliation: UHH
+affiliation: 
+  - UHH
 photo: /assets/images/luisa-lucie-smith.jpg
 link: https://www.physik.uni-hamburg.de/en/hs/group---lucie-smith/team-members/lucie-smith-luisa.html
 sorting: None
+
+publications:
+  - title: "A deep learning model for the density profiles of subhaloes in IllustrisTNG"
+    authors: ["Lucie-Smith, L.", "Despali, G.", "Springel, V."]
+    year: 2024
+    venue: "arxiv"
+    url: "https://doi.org/10.48550/arXiv.2403.12125"
+  
+  - title: "Halo assembly bias from a deep learning model of halo formation"
+    authors: ["Lucie-Smith, L.", "Barreira, A.", "Schmidt, F."]
+    year: 2023
+    venue: "MNRAS 524(2), 1746-1756, 2023"
+    url: "https://doi.org/10.1093/mnras/stad2003"
+  
+  - title: "Explaining dark matter halo density profiles with neural networks"
+    authors: ["Lucie-Smith, L.", "Peiris, H.V.", "Pontzen, A"]
+    year: 2023
+    venue: "Phys. Rev. Lett. 132, 031001 (2024)"
+    url: "https://doi.org/10.1103/PhysRevLett.132.031001"
 ---

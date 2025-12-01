@@ -2,9 +2,29 @@
 title: Prof.
 firstname: Philipp
 lastname: Neumann
-affiliation: DESY
+affiliation: 
+  - DESY
 photo: /assets/images/philipp-neumann.png
 link: https://www.desy.de/ueber_desy/leitende_wissenschaftler/philipp_neumann/index_ger.html
 sorting: Board_Other
+
+publications:
+  - title: "Towards Data-Driven Inference of Stencils for Discrete Differential Operators"
+    authors: ["Y. Schumann", "P. Neumann"]
+    year: 2022
+    venue: "PASC"
+    url: "https://doi.org/10.1145/3539781.3539787"
+
+  - title: "Convolutional Recurrent Autoencoder for Molecular-Continuum Coupling"
+    authors: ["P. Jarmatz", "S. Lerdo", "P. Neumann"]
+    year: 2023
+    venue: "ICCS"
+    url: "https://doi.org/10.1007/978-3-031-36027-5_42"
+  
+  - title: "Morphology-Based Molecular Classification of Spinal Cord Ependymomas Using Deep Neural Networks"
+    authors: ["Y. Schumann", "M. Dottermusch", "L. Schweizer", "M. Krech", "T. Lempertz", "U. Schüller", "P. Neumann", "J.E. Neumann"]
+    year: 2024
+    venue: "Brain Pathology"
+    url: "https://doi.org/10.1111/bpa.13239"  
 ---
 

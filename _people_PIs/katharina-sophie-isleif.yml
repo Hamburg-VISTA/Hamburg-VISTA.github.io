@@ -2,7 +2,8 @@
 title: Prof.
 firstname: Katharina-Sophie
 lastname: Isleif
-affiliation: HSU
+affiliation: 
+  - HSU
 photo: /assets/images/katharina-sophie-isleif.jpeg
 link: https://www.hsu-hh.de/mt/
 alttext: Photo by Ulrike Schröder/HSU.
