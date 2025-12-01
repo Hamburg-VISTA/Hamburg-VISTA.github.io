@@ -360,3 +360,38 @@ a:hover {
     text-decoration: underline; /* Add underline to links on hover */
 }
 
+/* Style all select elements */
+select {
+  background-color: white;      /* White background */
+  color: black;                 /* Text color */
+  border: 2px solid #ccc;       /* Light grey border */
+  border-radius: 0;             /* Square corners */
+  padding: 5px 30px 5px 10px;   /* Space inside the box */
+  font-size: 16px;              /* Adjust font size */
+  appearance: none;             /* Remove default arrow (for styling) */
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  cursor: pointer;
+  position: relative;
+}
+
+/* Add custom arrow using pseudo-element */
+select {
+  background-image: url('data:image/svg+xml;utf8,<svg fill="purple" height="12" viewBox="0 0 24 24" width="12" xmlns="http://www.w3.org/2000/svg"><path d="M7 10l5 5 5-5z"/></svg>');
+  background-repeat: no-repeat;
+  background-position: right 10px center;  /* Position arrow */
+  background-size: 20px 20px;             /* Size of arrow */
+}
+
+#filters-container {
+  display: flex;               /* make child elements inline-flex */
+  flex-wrap: wrap;             /* wrap to next line if screen is narrow */
+  justify-content: center;     /* center the entire group horizontally */
+  align-items: center;         /* vertical alignment of labels & selects */
+  gap: 1em;                    /* spacing between dropdowns */
+  margin-bottom: 2em;          /* spacing from publication list */
+}
+
+#filters-container label {
+  margin-right: 0.25em;        /* small space between label and select */
+}
