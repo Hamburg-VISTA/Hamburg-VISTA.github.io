@@ -9,33 +9,33 @@ link: https://www.hsu-hh.de/theevs/schreiber
 sorting: None
 
 publications:
-    - title: "ChatGPT and Beyond: Exploring the Responsible Use of Generative AI in the Workplace – An Interdisciplinary Perspective"
-      authors: ["M. Söllner", "A. Benlian", "U. Bretschneider", "C. Knight", "S. Ohly", "L. Rudkowski", "G. Schreiber", "D. Wendt"]
-      year: 2025
-      venue: "Business & Information Systems Engineering (BISE), vol. 67(2), pages 289–303"
-      url: "https://doi.org/10.1007/s12599-025-00932-8"
+  - title: "ChatGPT and Beyond: Exploring the Responsible Use of Generative AI in the Workplace – An Interdisciplinary Perspective"
+    authors: ["M. Söllner", "A. Benlian", "U. Bretschneider", "C. Knight", "S. Ohly", "L. Rudkowski", "G. Schreiber", "D. Wendt"]
+    year: 2025
+    venue: "Business & Information Systems Engineering (BISE), vol. 67(2), pages 289–303"
+    url: "https://doi.org/10.1007/s12599-025-00932-8"
 
-    - title: "Data Toxicality: A Techno-Philosophical Inquiry into Digital Harm"
-      authors: ["G. Schreiber"]
-      year: 2025
-      venue: "Filozofia, vol. 80(3), pages 300–313"
-      url: "https://doi.org/10.31577/filozofia.2025.80.3.3"
+  - title: "Data Toxicality: A Techno-Philosophical Inquiry into Digital Harm"
+    authors: ["G. Schreiber"]
+    year: 2025
+    venue: "Filozofia, vol. 80(3), pages 300–313"
+    url: "https://doi.org/10.31577/filozofia.2025.80.3.3"
 
-    - title: "Beyond Code – The Crucial Role of Responsibility in Technology Ethics"
-      authors: ["G. Schreiber"]
-      year: 2025
-      venue: "Business & Information Systems Engineering (BISE), vol. 67(2), pages 297–299"
-      url: "https://link.springer.com/article/10.1007/s12599-025-00932-8#Sec14"
+  - title: "Beyond Code – The Crucial Role of Responsibility in Technology Ethics"
+    authors: ["G. Schreiber"]
+    year: 2025
+    venue: "Business & Information Systems Engineering (BISE), vol. 67(2), pages 297–299"
+    url: "https://link.springer.com/article/10.1007/s12599-025-00932-8#Sec14"
 
-    - title: "Reconsidering Agency in the Age of AI"
-      authors: ["G. Schreiber"]
-      year: 2024
-      venue: "Filozofia, vol. 79(5), pages 529–537"
-      url: "https://doi.org/10.31577/filozofia.2024.79.5.5"
+  - title: "Reconsidering Agency in the Age of AI"
+    authors: ["G. Schreiber"]
+    year: 2024
+    venue: "Filozofia, vol. 79(5), pages 529–537"
+    url: "https://doi.org/10.31577/filozofia.2024.79.5.5"
 
-    - title: "KI:Text. Diskurse über KI-Textgeneratoren"
-      authors: ["G. Schreiber", "L. Ohly (eds.)"]
-      year: 2024
-      venue: "De Gruyter, Berlin/Boston (581 pages)"
-      url: "https://www.degruyterbrill.com/document/doi/10.1515/9783111351490/html"
+  - title: "KI:Text. Diskurse über KI-Textgeneratoren"
+    authors: ["G. Schreiber", "L. Ohly (eds.)"]
+    year: 2024
+    venue: "De Gruyter, Berlin/Boston (581 pages)"
+    url: "https://www.degruyterbrill.com/document/doi/10.1515/9783111351490/html"
 ---
