@@ -6,9 +6,9 @@ title: Hamburg VISTA - Events
 # Events
 ## VISOR kickoff
 <strong>Thursday January 15, 2026, 14:00-17:00</strong><br>
-Bahrenfeld Campus
+Seminar room 2030, Albert-Einstein-Ring 8-10, 22761 Hamburg
 
-Mark your calendars for the kickoff of <a href="/visor.html">VISOR</a>! During this event, the PhD students who received funding will present their projects. More information will follow shortly.
+Mark your calendars for the kickoff of <a href="/visor.html">VISOR</a>! During this event, the PhD students who received funding will present their projects. Full program and timetable on <a href="https://indico.desy.de/event/51955/" target="_blank">Indico</a>.
 
 ## VISTA seminar & School of Graduate Research (VISOR) matchmaking event
 <strong>Thursday February 27, 2025, 10:00-13:00</strong><br>
