@@ -9,7 +9,13 @@ link: https://www.physik.uni-hamburg.de/en/iexp/gruppe-kasieczka/personen.html
 sorting: Board_Chair
 
 
-publications:  
+publications: 
+  - title: "AllShowers: One model for all calorimeter showers"
+    authors: ["T. Buss", "H. Day-Hall", "F. Gaede", "G. Kasieczka", "K. Krüger"]
+    year: 2026
+    venue: "arxiv"
+    url: "https://doi.org/10.48550/arXiv.2601.11716"
+      
   - title: "Morphological Classification of Radio Galaxies with wGAN-supported Augmentation"
     authors: ["L. Rustige", "J. Kummer", "F. Griese", "K. Borras", "M. Brüggen", "P. Connor", "F. Gaede", "G. Kasieczka", "T. Knopp", "P. Schleper"]
     year: 2022
