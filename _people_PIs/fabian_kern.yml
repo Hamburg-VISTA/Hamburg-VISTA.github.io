@@ -1,0 +1,41 @@
+---
+title: Prof.
+firstname: Fabian
+lastname: Kern
+affiliation: 
+  - UHH
+photo: /assets/images/fabian-kern.jpg
+link: https://www.zbh.uni-hamburg.de/en/forschung/mlbi.html
+sorting: None
+
+publications:
+  - title: "A single-cell atlas to map sex-specific gene-expression changes in blood upon neurodegeneration"
+    authors: ["F. Grandke", "T. Fehlmann", "F. Kern", "D. M. Gate", "T. W. Wolff", "O. Leventhal", "D. Channappa", "P. Hirsch", "E. N. Wilson", "E. Meese", "C. Liu", "Q. Shi", "M. Flotho", "Y. Li", "C. Chen", "Y. Yu", "J. Xu", "M. Junkin", "Z. Wang", "T. Wu", "L. Liu", "Y. Hou", "K. I. Andreasson", "J. S. Gansen", "E. Mass", "K. Poston", "T. Wyss-Coray", "A. Keller"]
+    year: 2025
+    venue: "Nature Communications 16, 1965"
+    url: "https://doi.org/10.1038/s41467-025-56833-7"
+
+  - title: "ZEBRA: a hierarchically integrated gene expression atlas of the murine and human brain at single-cell resolution"
+    authors: ["M. Flotho", "J. Amand", "P. Hirsch", "F. Grandke", "T. Wyss-Coray", "A. Keller", "F. Kern"]
+    year: 2024
+    venue: "Nucleic Acids Research 52, D1089–D1096"
+    url: "https://doi.org/10.1093/nar/gkad990"
+
+  - title: "Ageing-associated small RNA cargo of extracellular vesicles"
+    authors: ["F. Kern", "T. Kuhn", "N. Ludwig", "M. Simon", "L. Gröger", "N. Fabis", "E. Aparicio-Puerta", "A. Salhab", "T. Fehlmann", "O. Hahn", "A. Engel", "V. Wagner", "M. Koch", "K. Winek", "H. Soreq", "I. Nazarenko", "G. Fuhrmann", "T. Wyss-Coray", "E. Meese", "V. Keller", "M. W. Laschke", "A. Keller"]
+    year: 2023
+    venue: "RNA Biology 20, 482–494"
+    url: "https://doi.org/10.1080/15476286.2023.2234713"
+
+  - title: "Atlas of the aging mouse brain reveals white matter as vulnerable foci"
+    authors: ["O. Hahn", "A. G. Foltz", "M. Atkins", "B. Kedir", "P. Moran-Losada", "I. H. Guldner", "C. Munson", "F. Kern", "R. Pálovics", "N. Lu", "H. Zhang", "A. Kaur", "J. Hull", "J. R. Huguenard", "S. Grönke", "B. Lehallier", "L. Partridge", "A. Keller", "T. Wyss-Coray"]
+    year: 2023
+    venue: "Cell 186, 4117–4133.e4122"
+    url: "https://doi.org/10.1016/j.cell.2023.07.027"
+
+  - title: "BusyBee Web: towards comprehensive and differential composition-based metagenomic binning"
+    authors: ["G. P. Schmartz", "P. Hirsch", "J. Amand", "J. Dastbaz", "T. Fehlmann", "F. Kern", "R. Müller", "A. Keller"]
+    year: 2022
+    venue: "Nucleic Acids Research 50, W132–W137"
+    url: "https://doi.org/10.1093/nar/gkac298"
+---
