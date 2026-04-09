@@ -4,6 +4,12 @@ title: Hamburg VISTA - Events
 ---
 
 # Events
+## VISOR Collaboration Meetup
+<strong>Tuesday June 2, 2026, 09:00-13:00</strong><br>
+Mensa, Room 0008 - Thomas Ellwein Saal, Helmut Schmidt University, Holstenhofweg 85, 22043 Hamburg
+
+Save the date for this upcoming VISOR meetup! More information about agenda and registration coming soon.
+
 ## VISOR kickoff
 <strong>Thursday January 15, 2026, 14:00-17:00</strong><br>
 Seminar room 2030, Albert-Einstein-Ring 8-10, 22761 Hamburg
