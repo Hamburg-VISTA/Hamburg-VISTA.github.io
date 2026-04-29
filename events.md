@@ -8,7 +8,9 @@ title: Hamburg VISTA - Events
 <strong>Tuesday June 2, 2026, 09:00-13:00</strong><br>
 Mensa, Room 0008 - Thomas Ellwein Saal, Helmut Schmidt University, Holstenhofweg 85, 22043 Hamburg
 
-Save the date for this upcoming VISOR meetup! More information about agenda and registration coming soon.
+This collaboration meetup at HSU offers a dynamic platform for connecting, exchanging ideas, and exploring new opportunities. The program features follow-up presentations from VISOR PhD researchers, alongside expert talks on AI at HSU. Together, we will engage in discussions to shape a shared research agenda and strengthen a unified communication strategy across Hamburg. 
+
+Full program and registration at <a href="https://indico.desy.de/event/53592/" target="_blank">Indico</a>.
 
 ## VISOR kickoff
 <strong>Thursday January 15, 2026, 14:00-17:00</strong><br>
